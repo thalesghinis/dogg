@@ -13,3 +13,5 @@ Sincronizar os arquivos entre o "Computador X Servidor":
 3. Executar: "git add ." (adicionar todos os arquivos estidados).
 4. Executar: "git commit -m "instrução das alterações" 
 5. Executar: "git push" (sincronizar os arquivos atualizados).
+
+=================================================================
