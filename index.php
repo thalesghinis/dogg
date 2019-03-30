@@ -1,15 +1,17 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
-    <script src="jquery-3.2.1.min.js"></script>
-    <script>
-        $(function() {
-            $("#header").load("header.html");
-            $("#footer").load("footer.html");
-        });
-    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <?php
+    require 'head.php'
+    ?>
 </head>
+
 
 <body>
 
@@ -161,12 +163,12 @@
                                         <div class="form-field">
                                             <i class="icon icon-arrow-down3"></i>
                                             <select name="people" id="people" class="form-control">
-		                        <option value="#">1</option>
-		                        <option value="#">2</option>
-		                        <option value="#">3</option>
-		                        <option value="#">4</option>
-		                        <option value="#">5+</option>
-		                      </select>
+                                                <option value="#">1</option>
+                                                <option value="#">2</option>
+                                                <option value="#">3</option>
+                                                <option value="#">4</option>
+                                                <option value="#">5+</option>
+                                            </select>
                                         </div>
                                     </div>
                                 </div>
@@ -176,12 +178,12 @@
                                         <div class="form-field">
                                             <i class="icon icon-arrow-down3"></i>
                                             <select name="people" id="people" class="form-control">
-		                        <option value="#">1</option>
-		                        <option value="#">2</option>
-		                        <option value="#">3</option>
-		                        <option value="#">4</option>
-		                        <option value="#">5+</option>
-		                      </select>
+                                                <option value="#">1</option>
+                                                <option value="#">2</option>
+                                                <option value="#">3</option>
+                                                <option value="#">4</option>
+                                                <option value="#">5+</option>
+                                            </select>
                                         </div>
                                     </div>
                                 </div>
@@ -201,8 +203,8 @@
                     <div class="col-md-3 animate-box text-center">
                         <div class="services">
                             <span class="icon">
-								<i class="flaticon-reception"></i>
-							</span>
+                                <i class="flaticon-reception"></i>
+                            </span>
                             <h3>Atendimento 24/7</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                         </div>
@@ -210,8 +212,8 @@
                     <div class="col-md-3 animate-box text-center">
                         <div class="services">
                             <span class="icon">
-								<i class="flaticon-herbs"></i>
-							</span>
+                                <i class="flaticon-herbs"></i>
+                            </span>
                             <h3>Serviço de Transfer</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                         </div>
@@ -219,8 +221,8 @@
                     <div class="col-md-3 animate-box text-center">
                         <div class="services">
                             <span class="icon">
-								<i class="flaticon-car"></i>
-							</span>
+                                <i class="flaticon-car"></i>
+                            </span>
                             <h3>Seguro Saúde</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                             <p></p>
@@ -229,8 +231,8 @@
                     <div class="col-md-3 animate-box text-center">
                         <div class="services">
                             <span class="icon">
-								<i class="flaticon-cheers"></i>
-							</span>
+                                <i class="flaticon-cheers"></i>
+                            </span>
                             <h3>Passeio Individual &amp; Creche</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                             <p></p>
@@ -659,64 +661,8 @@
             </div>
         </div>
     </div>
-    <footer id="colorlib-footer" role="contentinfo">
-        <div class="container">
-            <div class="row row-pb-md">
-                <div class="col-md-3 colorlib-widget">
-                    <h4>DOGG</h4>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam itaque velit sed at saepe maiores voluptate qui blanditiis alias tempora vitae, quo, repudiandae, incidunt laborum asperiores veritatis pariatur vel reprehenderit?</p>
-                    <p>
-                        <ul class="colorlib-social-icons">
-                            <li><a href="#"><i class="icon-twitter"></i></a></li>
-                            <li><a href="#"><i class="icon-facebook"></i></a></li>
-                            <li><a href="#"><i class="icon-linkedin"></i></a></li>
-                            <li><a href="#"><i class="icon-dribbble"></i></a></li>
-                        </ul>
-                    </p>
-                </div>
-                <div class="col-md-3 colorlib-widget">
-                    <h4>Links</h4>
-                    <p>
-                        <ul class="colorlib-footer-links">
-                            <li><a href="#">Acomodações</a></li>
-                            <li><a href="#">Transfer</a></li>
-                            <li><a href="#">Seguro</a></li>
-                            <li><a href="#">Passeio &amp; Creche</a></li>
-                        </ul>
-                    </p>
-                </div>
-                <div class="col-md-3">
-                    <h4>Blog DOGG Recentes</h4>
-                    <ul class="colorlib-footer-links">
-                        <li><a href="#">Conheça o nosso programa de adestramento</a></li>
-                        <li><a href="#">Dogg ganha prêmio de melhor plataforma</a></li>
-                        <li><a href="#">Pesquisa comprova que cachorro é dahora</a></li>
-                    </ul>
-                </div>
 
-                <div class="col-md-3 col-md-push-1">
-                    <h4>Entre em contato</h4>
-                    <ul class="colorlib-footer-links">
-                        <li>Rua dos catioros <br> 100, Oitavo andar</li>
-                        <li><a href="tel://10101010">+ 55 11 10101010</a></li>
-                        <li><a href="mailto:contato@dog.com">contato@dogg.com</a></li>
-                        <li><a href="http://dogg.com">dogg.com</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <p>
-                        <small class="block"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart3" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></small>
-                        <small class="block">Demo Images: <a href="http://unsplash.com/" target="_blank">Unsplash</a></small>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </footer>
-    </div>
+    <!-- add footer aqui -->
 
     <div class="gototop js-top">
         <a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
@@ -744,4 +690,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
 </body>
 
-</html>
+<?php
+require 'footer.php'
+?>
+
+</html> 
