@@ -3,15 +3,15 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-4">
-                        <p class="site">www.yoursitehere.com</p>
+                        <p class="site">www.xabalu.pet</p>
                     </div>
                     <div class="col-xs-8 text-right">
-                        <p class="num">Call: +01-123-456</p>
+                        <p class="num">Telefone: +55-11-5444-1234</p>
                         <ul class="colorlib-social">
                             <li><a href="#"><i class="icon-twitter"></i></a></li>
                             <li><a href="#"><i class="icon-facebook"></i></a></li>
-                            <li><a href="#"><i class="icon-linkedin"></i></a></li>
-                            <li><a href="#"><i class="icon-dribbble"></i></a></li>
+                            <li><a href="#"><i class="icon-instagram"></i></a></li>
+                            <li><a href="#"><i class="icon-youtube"></i></a></li>
                         </ul>
                     </div>
                 </div>
