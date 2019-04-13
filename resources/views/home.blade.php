@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+<!-- home da pagina logada -->
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">

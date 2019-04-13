@@ -12,6 +12,7 @@
 
 <body>
 @include('layouts.header')
+        <!-- slides -->
         <aside id="colorlib-hero">
             <div class="flexslider">
                 <ul class="slides">
@@ -78,6 +79,7 @@
                 </ul>
             </div>
         </aside>
+        <!-- reservation -->
         <div id="colorlib-reservation">
             <div class="container">
                 <div class="row">
@@ -141,7 +143,7 @@
                 </div>
             </div>
         </div>
-
+        <!-- services -->
         <div id="colorlib-services">
             <div class="container">
                 <div class="row">
@@ -186,7 +188,7 @@
                 </div>
             </div>
         </div>
-
+        <!-- rooms -->
         <div id="colorlib-rooms" class="colorlib-light-grey">
             <div class="container">
                 <div class="row">

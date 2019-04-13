@@ -11,10 +11,13 @@
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+Route::get('/', 'HomeController@index');
+Route::get('/rooms-suites', 'HomeController@roomsSuites');
+Route::get('/dining-bar', 'HomeController@diningBar');
+Route::get('/aminities', 'HomeController@aminities');
+Route::get('/blog', 'HomeController@blog');
+Route::get('/contact', 'HomeController@contact');
+Route::get('/login', 'HomeController@login');
+Route::get('/register', 'HomeController@register');
 
 Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');
