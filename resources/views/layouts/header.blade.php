@@ -22,22 +22,22 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-2">
-                        <div id="colorlib-logo"><a href="{{ url('/home') }}">DOGG</a></div>
+                        <div id="colorlib-logo"><a href="{{ url('/home') }}">XABLAU.PET</a></div>
                     </div>
                     <div class="col-xs-10 text-right menu-1">
                         <ul>
                             <li class="active"><a href="{{ url('/') }}">Home</a></li>
                             <li class="has-dropdown">
-                                <a href="/rooms-suites">Seja um DOGG</a>
+                                <a href="/rooms-suites">Seja um XABLAU.PET</a>
                                 <ul class="dropdown">
                                     <li><a href="#">Parceria</a></li>
                                     <li><a href="#">Quem somos nós</a></li>
-                                    <li><a href="#">Porque ser um DOGG</a></li>
+                                    <li><a href="#">Porque ser um XABLAU.PET</a></li>
                                     <li><a href="#">FAQ</a></li>
                                 </ul>
                             </li>
                             <li><a href="{{ url('/dining-bar') }}">Hotéis &amp; Passeios</a></li>
-                            <li><a href="{{ url('/aminities') }}">Conheça a DOGG</a></li>
+                            <li><a href="{{ url('/aminities') }}">Conheça a XABLAU.PET</a></li>
                             <li><a href="{{ url('/blog') }}">Creche (NOVO)</a></li>
                             <!-- <li><a href="about.html">Instagram</a></li> -->
                             <li><a href="{{ url('/contact') }}">Contato</a></li>
