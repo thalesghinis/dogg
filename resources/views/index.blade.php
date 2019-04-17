@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>DOOG.pet</title>
     @include('layouts.head')
 </head>
 
@@ -13,10 +13,10 @@
 <body>
 @include('layouts.header')
         <!-- slides -->
-        <aside id="colorlib-hero">
-            <div class="flexslider">
-                <ul class="slides">
-                    <li style="background-image: url(images/family.jpg);">
+            <aside id="colorlib-hero">
+                <div class="flexslider">
+                    <ul class="slides">
+                        <li id="img1" style="background-image: url(images/dogview.jpg);">
                         <div class="overlay"></div>
                         <div class="container-fluid">
                             <div class="row">
@@ -25,13 +25,13 @@
                                         <h2>Bem vindo a DOGG</h2>
                                         <h1>DOGG</h1>
                                         <p>
-                                            <a class="btn btn-primary btn-demo" href="#"></i> Detalhes</a> <a class="btn btn-primary btn-learn">Saiba mais</a></p>
+                                            <a class="btn btn-primary btn-demo" href="#"></i>Detalhes</a> <a class="btn btn-primary btn-learn">Saiba mais</a></p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </li>
-                    <li style="background-image: url(images/dog-4.jpg);">
+                    <li style="background-image: url(images/family2.jpg);">
                         <div class="overlay"></div>
                         <div class="container-fluid">
                             <div class="row">
@@ -53,7 +53,7 @@
                                 <div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
                                     <div class="slider-text-inner text-center">
                                         <h2>O maior portal de hotéis e passeios</h2>
-                                        <h1>Nós sabemos como cuidar do que você ama</h1>
+                                        <h1>Nós sabemos como cuidar de quem que você ama</h1>
                                         <p>
                                             <a class="btn btn-primary btn-demo" href="#"></i> Detalhes</a> <a class="btn btn-primary btn-learn">Saiba mais</a></p>
                                     </div>
@@ -61,7 +61,7 @@
                             </div>
                         </div>
                     </li>
-                    <li style="background-image: url(images/adestramento.jpg);">
+                    <li style="background-image: url(images/dog-4.jpg);">
                         <div class="overlay"></div>
                         <div class="container-fluid">
                             <div class="row">
