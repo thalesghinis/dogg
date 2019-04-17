@@ -3,7 +3,9 @@
         <div class="row row-pb-md">
             <div class="col-md-3 colorlib-widget">
                 <h4>XABLAU.PET</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam itaque velit sed at saepe maiores voluptate qui blanditiis alias tempora vitae, quo, repudiandae, incidunt laborum asperiores veritatis pariatur vel reprehenderit?</p>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam itaque velit sed at saepe maiores
+                    voluptate qui blanditiis alias tempora vitae, quo, repudiandae, incidunt laborum asperiores
+                    veritatis pariatur vel reprehenderit?</p>
                 <p>
                     <ul class="colorlib-social-icons">
                         <li><a href="www.twitter.com"><i class="icon-twitter"></i></a></li>
@@ -48,13 +50,16 @@
                 <p>
                     <small class="block">
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        Copyright &copy;<script>
+                        Copyright &copy;
+                        <script>
                             document.write(new Date().getFullYear());
-                        </script> All rights reserved | This template is made with <i class="icon-heart3" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                        </script> All rights reserved | This template is made with <i class="icon-heart3"
+                            aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></small>
-                    <small class="block">Demo Images: <a href="http://unsplash.com/" target="_blank">Unsplash</a></small>
+                    <small class="block">Demo Images: <a href="http://unsplash.com/"
+                            target="_blank">Unsplash</a></small>
                 </p>
             </div>
         </div>
     </div>
-</footer> 
+</footer>

@@ -8,10 +8,10 @@
                     <div class="col-xs-8 text-right">
                         <p class="num">Telefone: +55-11-5444-1234</p>
                         <ul class="colorlib-social">
-                            <li><a href="#"><i class="icon-twitter"></i></a></li>
-                            <li><a href="#"><i class="icon-facebook"></i></a></li>
-                            <li><a href="#"><i class="icon-instagram"></i></a></li>
-                            <li><a href="#"><i class="icon-youtube"></i></a></li>
+                            <li><a href="http://www.twitter.com"><i class="icon-twitter"></i></a></li>
+                            <li><a href="http://www.facebook.com"><i class="icon-facebook"></i></a></li>
+                            <li><a href="http://www.instagram.com"><i class="icon-instagram"></i></a></li>
+                            <li><a href="http://www.youtube.com"><i class="icon-youtube"></i></a></li>
                         </ul>
                     </div>
                 </div>
