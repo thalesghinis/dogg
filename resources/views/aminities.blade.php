@@ -17,14 +17,14 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-					<li style="background-image: url(images/img_bg_5.jpg);">
+					<li style="background-image: url(images/dogview.jpg);">
 						<div class="overlay"></div>
 						<div class="container-fluid">
 							<div class="row">
 								<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 									<div class="slider-text-inner slider-text-inner2 text-center">
-										<h2>Accomodation</h2>
-										<h1>Our Amenities</h1>
+										<h1>Cuidando</h1>
+										<h2> de quem você mais ama</h2>
 									</div>
 								</div>
 							</div>
@@ -40,22 +40,32 @@
 						<div class="amenities-img animate-box" style="background-image: url(images/amenities-1.jpg);">
 						</div>
 						<div class="desc animate-box">
-							<h2><a href="#">Airport Shuttle &amp; Parking Lot</a></h2>
+							<h2><a href="#">Frase inspiradora</a></h2>
 							<p class="price">
-								<span class="free">Free</span>
+								<span class="free">Nossa motivação</span>
 							</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi voluptates eius, nam
-								laudantium, quasi laborum cumque asperiores totam est perferendis itaque id esse quidem
-								recusandae sequi aut? Ratione, enim, consequatur!</p>
+							<p>Acreditamos que o amor por pets é representado com comportamento.
+							Quem ama se especializa para entregar a melhor experiência e segurança
+							que um pet pode ter.
+
+							Quem é tutor, procura por um alguém com paixão, que esteja em um local confiavel,
+							que ofereça monitoramento adequado e prover edução de primeiro mundo para aquele que 
+							ele ama de paixão.
+
+							E nós da DOGG.PET conectamos os mundos.						
+						</p>
 						</div>
 						<div class="desc animate-box">
-							<h2><a href="#">Room Service </a></h2>
+							<h2><a href="#"> Frase inspiradora </a></h2>
 							<p class="price">
-								<span class="free">Free</span>
+								<span class="free">Nossos valores</span>
 							</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi voluptates eius, nam
-								laudantium, quasi laborum cumque asperiores totam est perferendis itaque id esse quidem
-								recusandae sequi aut? Ratione, enim, consequatur!</p>
+							<li>
+									Comportamento
+									Segurança
+									Parceria
+									Cuidado
+							</li>
 						</div>
 						<div class="amenities-img animate-box" style="background-image: url(images/room-5.jpg);"></div>
 						<div class="amenities-img animate-box" style="background-image: url(images/amenities-2.jpg);">
