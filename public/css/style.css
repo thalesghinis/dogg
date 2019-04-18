@@ -43,12 +43,12 @@ body {
       content: ""; }
 
 a {
-  color: #4586FF;
+  color: #5FB39E;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: #4586FF;
+    color: #360568;
     outline: none;
     text-decoration: none; }
 
@@ -70,15 +70,15 @@ h1, h2, h3, h4, h5, h6, figure {
 ::-webkit-selection {
 
   color: #fff;
-  background: #4586FF; }
+  background: #5FB39E; }
 
 ::-moz-selection {
   color: #fff;
-  background: #4586FF; }
+  background: #5FB39E; }
 
 ::selection {
   color: #fff;
-  background: #4586FF; }
+  background: #5FB39E; }
 
 
 .colorlib-nav {
@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5, h6, figure {
       padding: 0;
       margin: 0 0 0 20px; }
       .colorlib-nav .top .colorlib-social li a {
-        color: #4586FF;
+        color: #360568;
         padding: 4px 7px; }
   .colorlib-nav .top-menu {
     padding: 40px 30px; }
@@ -310,11 +310,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
       /*IMAGES*/
 
-        #li-familia {
-          background-position: 0 -100px !important;
-        }
-
-        #dog1 {
+        #bgp-100 {
           background-position: 0 -100px !important;
         }
 
@@ -339,7 +335,7 @@ h1, h2, h3, h4, h5, h6, figure {
         #colorlib-hero .flexslider .flex-control-nav li a.flex-active {
           cursor: pointer;
           background: transparent;
-          background: #4586FF; }
+          background: #5B2A86; }
     #colorlib-hero .flexslider .flex-direction-nav {
       display: none; }
     #colorlib-hero .flexslider .slider-text {
@@ -377,7 +373,7 @@ h1, h2, h3, h4, h5, h6, figure {
           line-height: 1.5;
           margin-bottom: 10px; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 a {
-            color: #4586ff;
+            color: #5B2A86;
             border-bottom: 1px solid rgba(69, 134, 255, 0.7); }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner .heading-section {
           font-size: 50px; }
@@ -387,7 +383,7 @@ h1, h2, h3, h4, h5, h6, figure {
         #colorlib-hero .flexslider .slider-text > .slider-text-inner s
 .colorlib-lead {
           font-size: 20px;
-          color: #F96D00; }
+          color: #5FB39E; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner s
 .colorlib-lead .icon-heart {
             color: #d9534f; }
@@ -399,7 +395,7 @@ h1, h2, h3, h4, h5, h6, figure {
           padding: 20px 30px !important;
           border: none; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
-            background: #F96D00;
+            background: #360568;
             color: #fff; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn:hover {
             background: #000 !important; }
@@ -533,7 +529,7 @@ h1, h2, h3, h4, h5, h6, figure {
     vertical-align: middle;
     height: 120px;
     font-size: 60px;
-    color: #4586FF; }
+    color: #5FB39E; }
 
 .owl-carousel {
   margin-bottom: 5em; }
@@ -583,7 +579,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .owl-theme .owl-controls .owl-nav [class*=owl-] {
   padding: 0;
-  background: #4586FF;
+  background: #5FB39E;
   border: 1px solid rgba(0, 0, 0, 0.1); }
   .owl-theme .owl-controls .owl-nav [class*=owl-] i {
     border: none; }
@@ -594,7 +590,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .owl-carousel .owl-controls .owl-nav .owl-prev i {
   font-size: 14px;
   color: rgba(255, 255, 255, 0.7);
-  background: #4586FF; }
+  background: #5FB39E; }
 
 .owl-carousel .owl-controls .owl-nav .owl-next:hover i,
 .owl-carousel .owl-controls .owl-nav .owl-prev:hover i {
@@ -685,14 +681,14 @@ h1, h2, h3, h4, h5, h6, figure {
       color: #000; }
     #colorlib-rooms .desc .price .currency {
       font-size: 20px;
-      color: #4586FF; }
+      color: #5FB39E; }
       #colorlib-rooms .desc .price .currency.currency-menu {
         color: #F96D00;
         font-size: 16px; }
     #colorlib-rooms .desc .price .price-room {
       font-size: 40px;
       font-weight: 400;
-      color: #4586FF; }
+      color: #5FB39E; }
       #colorlib-rooms .desc .price .price-room.price-menu {
         color: #F96D00;
         font-size: 30px; }
@@ -706,7 +702,7 @@ h1, h2, h3, h4, h5, h6, figure {
     -webkit-border-radius: 30px;
     -moz-border-radius: 30px;
     -ms-border-radius: 30px;
-    border-radius: 30px; }
+     border-radius: 30px; }
 
 .testimony {
   position: relative;
@@ -1128,7 +1124,7 @@ input[type="text"] {
       display: inline-block;
       zoom: 1;
       *display: inline;
-      color: #4586FF;
+      color: #5FB39E;
       padding-left: 10px;
       padding-right: 10px; }
       .colorlib-social-icons li a i {
@@ -1218,6 +1214,7 @@ input[type="text"] {
   padding-right: 3em;
   border: none;
   border: 2px solid #fff;
+  border-radius: 0 33px 33px 0; 
   background: #fff;
   color: #333333 !important; }
 
@@ -1227,7 +1224,7 @@ input[type="text"] {
   right: -4px;
   border-top-left-radius: 0px !important;
   border-bottom-left-radius: 0px !important;
-  background: #4586FF;
+  background: #5FB39E;
   color: #fff;
   border: none;
   padding: 14px; }
@@ -1358,7 +1355,7 @@ input[type="text"] {
     width: 50px;
     height: 50px;
     display: table;
-    background: #f96d00;
+    background: #5FB39E;
     color: #fff;
     text-align: center;
     -webkit-border-radius: 4px;
@@ -1471,7 +1468,7 @@ input[type="text"] {
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   -ms-border-radius: 0;
-  border-radius: 0;
+  border-radius: 30px;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -1486,12 +1483,12 @@ input[type="text"] {
     outline: none !important; }
 
 .btn-primary {
-  background: #4586FF;
+  background: #5FB39E;
   color: #fff;
-  border: 2px solid #4586FF; }
+  border: 2px solid #5FB39E; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background: #5f97ff !important;
-    border-color: #5f97ff !important; }
+    background: #360568 !important;
+    border-color: #360568 !important; }
   .btn-primary.btn-outline {
     background: transparent;
     color: #4586FF;

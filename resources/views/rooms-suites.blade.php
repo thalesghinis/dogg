@@ -15,14 +15,14 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(images/img_bg_5.jpg);">
+			   	<li style="background-image: url(images/dogardenhd.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner slider-text-inner2 text-center">
-				   					<h2>Choose our Best</h2>
-				   					<h1>Rooms &amp; Suites</h1>
+				   					<h2>Escolha os melhores</h2>
+				   					<h1>Hotéis &amp; Quartos</h1>
 				   				</div>
 				   			</div>
 				   		</div>
@@ -39,108 +39,108 @@
 						<a href="images/room-1.jpg" class="room image-popup-link" style="background-image: url(images/room-1.jpg);"></a>
 						<div class="desc text-center">
 							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
-							<h3><a href="rooms-suites.html">Suite</a></h3>
+							<h3><a href="rooms-suites.html">Quarto individual</a></h3>
 							<p class="price">
-								<span class="currency">$</span>
-								<span class="price-room">149</span>
-								<span class="per">/ per night</span>
+								<span class="currency">R$</span>
+								<span class="price-room">99</span>
+								<span class="per">/ por noite</span>
 							</p>
 							<ul>
-								<li><i class="icon-check"></i> Only 10 rooms are available</li>
-								<li><i class="icon-check"></i> Breakfast included</li>
-								<li><i class="icon-check"></i> Price does not include VAT &amp; services fee</li>
+								<li><i class="icon-check"></i> Apenas 10 quartos disponíveis</li>
+								<li><i class="icon-check"></i> Ração premium incluso</li>
+								<li><i class="icon-check"></i> Serviço de leva e traz &amp; Vet 24hrs</li>
 							</ul>
-							<p><a class="btn btn-primary">Book now!</a></p>
+							<p><a class="btn btn-primary">Reserve agora!</a></p>
 						</div>
 					</div>
 					<div class="col-md-4 room-wrap animate-box">
 						<a href="images/room-2.jpg" class="room image-popup-link" style="background-image: url(images/room-2.jpg);"></a>
 						<div class="desc text-center">
 							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
-							<h3><a href="rooms-suites.html">Double Room</a></h3>
+							<h3><a href="rooms-suites.html">Quarto duplo</a></h3>
 							<p class="price">
-								<span class="currency">$</span>
-								<span class="price-room">199</span>
-								<span class="per">/ per night</span>
+								<span class="currency">R$</span>
+								<span class="price-room">79</span>
+								<span class="per">/ por noite e por pet</span>
 							</p>
 							<ul>
-								<li><i class="icon-check"></i> Perfect for traveling couples</li>
-								<li><i class="icon-check"></i> Breakfast included</li>
-								<li><i class="icon-check"></i> Price does not include VAT &amp; services fee</li>
+								<li><i class="icon-check"></i> Perfeito para pets irmãzinhos</li>
+								<li><i class="icon-check"></i> Ração premium inclusa</li>
+								<li><i class="icon-check"></i> Serviço de leva e traz &amp; Vet 24hrs</li>
 							</ul>
-							<p><a class="btn btn-primary btn-book">Book now!</a></p>
+							<p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
 						</div>
 					</div>
 					<div class="col-md-4 room-wrap animate-box">
 						<a href="images/room-3.jpg" class="room image-popup-link" style="background-image: url(images/room-3.jpg);"></a>
 						<div class="desc text-center">
 							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
-							<h3><a href="rooms-suites.html">Family Room</a></h3>
+							<h3><a href="rooms-suites.html">Quarto família</a></h3>
 							<p class="price">
-								<span class="currency">$</span>
+								<span class="currency">R$</span>
 								<span class="price-room">249</span>
-								<span class="per">/ per night</span>
+								<span class="per">/ por noite e para 4 pets</span>
 							</p>
 							<ul>
-								<li><i class="icon-check"></i> Two double beds</li>
-								<li><i class="icon-check"></i> Babysitting facilities</li>
-								<li><i class="icon-check"></i> 1 free bed available on request</li>
+								<li><i class="icon-check"></i> Espaço amplo para até 4 pets*</li>
+								<li><i class="icon-check"></i> Ração premium inclusa</li>
+								<li><i class="icon-check"></i> Vet 24hrs </li>
 							</ul>
-							<p><a class="btn btn-primary btn-book">Book now!</a></p>
+							<p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
 						</div>
 					</div>
 					<div class="col-md-4 room-wrap animate-box">
 						<a href="images/room-4.jpg" class="room image-popup-link" style="background-image: url(images/room-4.jpg);"></a>
 						<div class="desc text-center">
 							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
-							<h3><a href="rooms-suites.html">Classic Double Room</a></h3>
+							<h3><a href="rooms-suites.html">Hostel Pet Paulista</a></h3>
 							<p class="price">
-								<span class="currency">$</span>
-								<span class="price-room">179</span>
-								<span class="per">/ per night</span>
+								<span class="currency">R$</span>
+								<span class="price-room">49</span>
+								<span class="per">/ por noite</span>
 							</p>
 							<ul>
-								<li><i class="icon-check"></i> Only 10 rooms are available</li>
-								<li><i class="icon-check"></i> Breakfast included</li>
-								<li><i class="icon-check"></i> Price does not include VAT &amp; services fee</li>
+								<li><i class="icon-check"></i> Espaço compartilhada para até 8 pets*</li>
+								<li><i class="icon-check"></i> Conforto e espaço garantido</li>
+								<li><i class="icon-check"></i> Jardim amplo &amp; Atividades diárias</li>
 							</ul>
-							<p><a class="btn btn-primary btn-book">Book now!</a></p>
+							<p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
 						</div>
 					</div>
 					<div class="col-md-4 room-wrap animate-box">
 						<a href="images/room-5.jpg" class="room image-popup-link" style="background-image: url(images/room-5.jpg);"></a>
 						<div class="desc text-center">
 							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
-							<h3><a href="rooms-suites.html">Superior Double Room</a></h3>
+							<h3><a href="rooms-suites.html">Hostel Luxo</a></h3>
 							<p class="price">
-								<span class="currency">$</span>
-								<span class="price-room">270</span>
-								<span class="per">/ per night</span>
+								<span class="currency">R$</span>
+								<span class="price-room">59</span>
+								<span class="per">/ por noite</span>
 							</p>
 							<ul>
-								<li><i class="icon-check"></i> Perfect for traveling couples</li>
-								<li><i class="icon-check"></i> Breakfast included</li>
-								<li><i class="icon-check"></i> Price does not include VAT &amp; services fee</li>
+								<li><i class="icon-check"></i> Quarto compartilhado para até 6 pets*</li>
+								<li><i class="icon-check"></i> Jardim amplo</li>
+								<li><i class="icon-check"></i> Câmeras 24hrs &amp; Vet 24hrs</li>
 							</ul>
-							<p><a class="btn btn-primary btn-book">Book now!</a></p>
+							<p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
 						</div>
 					</div>
 					<div class="col-md-4 room-wrap animate-box">
 						<a href="images/room-6.jpg" class="room image-popup-link" style="background-image: url(images/room-6.jpg);"></a>
 						<div class="desc text-center">
 							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
-							<h3><a href="rooms-suites.html">Superior Family Room</a></h3>
+							<h3><a href="rooms-suites.html">Quarto familiar luxo</a></h3>
 							<p class="price">
-								<span class="currency"><small>$</small></span>
-								<span class="price-room">270</span>
-								<span class="per">/ per night</span>
+								<span class="currency"><small>R$</small></span>
+								<span class="price-room">349</span>
+								<span class="per">/ por noite</span>
 							</p>
 							<ul>
-								<li><i class="icon-check"></i> Perfect for traveling couples</li>
-								<li><i class="icon-check"></i> Breakfast included</li>
-								<li><i class="icon-check"></i> Price does not include VAT &amp; services fee</li>
+								<li><i class="icon-check"></i> Atendimento VIP</li>
+								<li><i class="icon-check"></i> Supervisão 24hrs</li>
+								<li><i class="icon-check"></i> Quarto amplo &amp; até 6 pets*</li>
 							</ul>
-							<p><a class="btn btn-primary btn-book">Book now!</a></p>
+							<p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
 						</div>
 					</div>
 				</div>
@@ -153,14 +153,14 @@
 				<div class="row">
 					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
 						<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
-						<h2>Sign Up for a Newsletter</h2>
-						<p>Get A 50% Discounts in every Rooms, Book now!</p>
+						<h2>Assine a nossa Newsletter</h2>
+						<p>Consiga 50% de desconto em qualquer quarto, Reserve Agora!</p>
 						<form class="form-inline qbstp-header-subscribe">
 							<div class="row">
 								<div class="col-md-12 col-md-offset-0">
 									<div class="form-group">
-										<input type="text" class="form-control" id="email" placeholder="Enter your email">
-										<button type="submit" class="btn btn-primary">Subscribe</button>
+										<input type="text" class="form-control" id="email" placeholder="Digite seu e-mail">
+										<button type="submit" class="btn btn-primary">Increva-se</button>
 									</div>
 								</div>
 							</div>

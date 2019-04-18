@@ -31,8 +31,7 @@
                             </div>
                         </div>
                     </li>        
-                    <li id="li-familia" 
-                    style="background-image: url(images/family2.jpg);">
+                    <li id="bgp-100" style="background-image: url(images/family2.jpg);">
                         <div class="overlay"></div>
                         <div class="container-fluid">
                             <div class="row">
@@ -47,7 +46,7 @@
                             </div>
                         </div>
                     </li>
-                    <li id="dog1" style="background-image: url(images/dog1.jpg);">
+                    <li id="bgp-100" style="background-image: url(images/dog1.jpg);">
                         <div class="overlay"></div>
                         <div class="container-fluids">
                             <div class="row">
@@ -62,7 +61,7 @@
                             </div>
                         </div>
                     </li>
-                    <li style="background-image: url(images/dog-4.jpg);">
+                    <li id="bgp-100" style="background-image: url(images/dogsecurity.jpg);">
                         <div class="overlay"></div>
                         <div class="container-fluid">
                             <div class="row">
@@ -247,17 +246,17 @@
                                         <span class="currency">R$</span>
                                         <span class="price-room">99</span>
                                         <span class="per">/ Por noite</span>
-                                    </p>
+                                    </p>    
                                     <ul>
                                         <li><i class="icon-check"></i> 2 Camas</li>
-                                        <li><i class="icon-check"></i> Comporta até 2 cachorros grandes ou 3 pequenos</li>
+                                        <li><i class="icon-check"></i> Comporta até 3 pets*</li>
                                         <li><i class="icon-check"></i> Seus PETS não se separam</li>
                                     </ul>
                                     <p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
                                 </div>
                             </div>
                             <div class="item">
-                                <a href="images/dog-3.jpg" class="room image-popup-link" style="background-image: url(images/dog-3.jpg);"></a>
+                                <a href="images/dogyoda.jpg" class="room image-popup-link" style="background-image: url(images/dogyoda.jpg);"></a>
                                 <div class="desc text-center">
                                     <span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
                                     <h3><a href="rooms-suites.html">Hotel Paulista</a></h3>
@@ -268,8 +267,8 @@
                                     </p>
                                     <ul>
                                         <li><i class="icon-check"></i> Quarto espaçoso para 8 PETS</li>
-                                        <li><i class="icon-check"></i> Liberdade no espaço verde 12 horas por dia</li>
-                                        <li><i class="icon-check"></i> Camera 24 horas por todo ambiente &amp; Transfer</li>
+                                        <li><i class="icon-check"></i> Espaço verde 16 horas por dia</li>
+                                        <li><i class="icon-check"></i> Camera 24 horas &amp; Transfer</li>
                                     </ul>
                                     <p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
                                 </div>
@@ -293,7 +292,7 @@
                                 </div>
                             </div>
                             <div class="item">
-                                <a href="images/area-3.jpg" class="room image-popup-link" style="background-image: url(images/area-3.jpg);"></a>
+                                <a href="images/hotel.jpg" class="room image-popup-link" style="background-image: url(images/hotel.jpg);"></a>
                                 <div class="desc text-center">
                                     <span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
                                     <h3><a href="rooms-suites.html">Hotel Bolt</a></h3>

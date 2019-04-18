@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row row-pb-md">
             <div class="col-md-3 colorlib-widget">
-                <h4>XABLAU.PET</h4>
+                <h4>DOGG.pet</h4>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam itaque velit sed at saepe maiores
                     voluptate qui blanditiis alias tempora vitae, quo, repudiandae, incidunt laborum asperiores
                     veritatis pariatur vel reprehenderit?</p>
@@ -27,7 +27,7 @@
                 </p>
             </div>
             <div class="col-md-3">
-                <h4>Blog da XABALU.PET</h4>
+                <h4>Blog da DOGG.pet</h4>
                 <ul class="colorlib-footer-links">
                     <li><a href="#">Conheça o nosso programa de adestramento</a></li>
                     <li><a href="#">Dogg ganha prêmio de melhor plataforma</a></li>

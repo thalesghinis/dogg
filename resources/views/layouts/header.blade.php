@@ -30,17 +30,17 @@
                             <li class="has-dropdown">
                                 <a href="/rooms-suites">Seja um DOGG.pet</a>
                                 <ul class="dropdown">
-                                    <li><a href="#">Parceria</a></li>
-                                    <li><a href="#">Quem somos nós</a></li>
+                                    <li><a href="{{ url('/aminities') }}">Quem somos</a></li>
                                     <li><a href="#">Porque ser um DOGG.pet</a></li>
+                                    <li><a href="#">Conheça a DOGG.pet</a></li>
+                                    <li><a href="#">Contato</a></li>
                                     <li><a href="#">FAQ</a></li>
                                 </ul>
                             </li>
                             <li><a href="{{ url('/dining-bar') }}">Hotéis &amp; Passeios</a></li>
-                            <li><a href="{{ url('/aminities') }}">Conheça a DOGG.pet</a></li>
-                            <li><a href="{{ url('/blog') }}">(A)</a></li>
+                            <!-- <li><a href="{{ url('/blog') }}">(A)</a></li> -->
                             <!-- <li><a href="about.html">Instagram</a></li> -->
-                            <li><a href="{{ url('/contact') }}">Contato</a></li>
+                            <!-- <li><a href="{{ url('/contact') }}">Contato</a></li> -->
                             <li><a href="{{ url('/login') }}">Login</a></li>
                             <li><a href="{{ url('/register') }}">Registre-se</a></li>
                         </ul>
