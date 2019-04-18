@@ -63,11 +63,12 @@ h1, h2, h3, h4, h5, h6, figure {
 
   /* IMAGES */
 
-.dogview {
-  width: 50px;
 
-}
+
+
+
 ::-webkit-selection {
+
   color: #fff;
   background: #4586FF; }
 
@@ -78,6 +79,7 @@ h1, h2, h3, h4, h5, h6, figure {
 ::selection {
   color: #fff;
   background: #4586FF; }
+
 
 .colorlib-nav {
   margin: 0; }
@@ -305,6 +307,17 @@ h1, h2, h3, h4, h5, h6, figure {
         background-position: bottom center;
         min-height: 650px;
         position: relative; }
+
+      /*IMAGES*/
+
+        #li-familia {
+          background-position: 0 -100px !important;
+        }
+
+        #dog1 {
+          background-position: 0 -100px !important;
+        }
+
         #colorlib-hero .flexslider .slides li .overlay {
           position: absolute;
           top: 0;
