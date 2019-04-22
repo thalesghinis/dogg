@@ -307,11 +307,16 @@ h1, h2, h3, h4, h5, h6, figure {
         background-position: bottom center;
         min-height: 650px;
         position: relative; }
+        
 
       /*IMAGES*/
 
         #bgp-100 {
           background-position: 0 -100px !important;
+        }
+
+        #dalmata {
+          background-position:  top !important;
         }
 
         #colorlib-hero .flexslider .slides li .overlay {
@@ -692,9 +697,7 @@ h1, h2, h3, h4, h5, h6, figure {
       font-size: 40px;
       font-weight: 400;
       color: #5FB39E; }
-      #colorlib-rooms .desc .price .price-room.price-menu {
-        color: #F96D00;
-        font-size: 30px; }
+      
   #colorlib-rooms .desc ul {
     margin: 0 0 40px 0;
     padding: 0; }
@@ -1148,10 +1151,11 @@ input[type="text"] {
     margin-bottom: 2em; }
   .colorlib-heading h2 {
     font-size: 34px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     line-height: 1.5;
     color: #000;
-    position: relative; }
+    position: relative; 
+    }
     .colorlib-heading h2:before, .colorlib-heading h2:after {
       position: absolute;
       top: 0;

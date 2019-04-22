@@ -13,13 +13,13 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(images/img_bg_5.jpg);">
+			   	<li id="dalmata" style="background-image: url(images/dogdalmata.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner slider-text-inner2 text-center">
-				   					<h2>Todo conforto</h2>
+				   					<h2>Conheça a DOGG</h2>
 				   					<h1> Segurança &amp; Lazer</h1>
 				   				</div>
 				   			</div>
@@ -33,8 +33,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
-						<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
-						<h2>Serviços</h2>
+						<h2>Seus serviços e por que somos a melhor opção para ser PET!</h2>
 					</div>
 				</div>
 				<div class="row">
@@ -53,7 +52,6 @@
 							<h3><a href="rooms-suites.html">Busca de localização</a></h3>
 							<p class="price">
 								<span class="currency currency-menu">Busque o hotel mais próximo</span>
-								<!-- <span class="price-room price-menu">30.00</span> -->
 							</p>
 						</div>
 					</div>
@@ -76,72 +74,30 @@
 							<p class="price">
 								<span class="currency currency-menu">Avalie o perfil e escolha a melhor opção</span>
 							</p>
-							<p><a class="btn btn-primary btn-book">Take an Order</a></p>
+							<p><a class="btn btn-primary btn-book">VAI USAR?</a></p>
 						</div>
 					</div>
 					<div class="col-md-4 room-wrap animate-box">
 						<a href="images/menu-5.jpg" class="room image-popup-link" style="background-image: url(images/menu-5.jpg);"></a>
 						<div class="desc text-center">
-							<h3><a href="rooms-suites.html">Roast Beef (4 sticks)</a></h3>
+							<h3><a href="rooms-suites.html">Programa diferenciado</a></h3>
 							<p class="price">
-								<span class="currency currency-menu">$</span>
-								<span class="price-room price-menu">30.00</span>
+								<span class="currency currency-menu">Diversas opções</span>
 							</p>
-							<p><a class="btn btn-primary btn-book">Take an Order</a></p>
+							<p><a class="btn btn-primary btn-book">VAI USAR?</a></p>
 						</div>
 					</div>
 					<div class="col-md-4 room-wrap animate-box">
 						<a href="images/menu-6.jpg" class="room image-popup-link" style="background-image: url(images/menu-6.jpg);"></a>
 						<div class="desc text-center">
-							<h3><a href="rooms-suites.html">Salted Fried Chicken</a></h3>
+							<h3><a href="rooms-suites.html">Segurança 24hrs</a></h3>
 							<p class="price">
-								<span class="currency currency-menu">$</span>
-								<span class="price-room price-menu">20.00</span>
+								<span class="currency currency-menu">Saiba como seu pet está, 24/7</span>
 							</p>
-							<p><a class="btn btn-primary btn-book">Take an Order</a></p>
+							<p><a class="btn btn-primary btn-book">VAI USAR?</a></p>
 						</div>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
-						<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
-						<h2>Desserts Menu</h2>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-4 room-wrap animate-box">
-						<a href="images/menu-7.jpg" class="room image-popup-link" style="background-image: url(images/menu-7.jpg);"></a>
-						<div class="desc text-center">
-							<h3><a href="rooms-suites.html">Organic Yoghurt Panna Cotta</a></h3>
-							<p class="price">
-								<span class="currency currency-menu">$</span>
-								<span class="price-room price-menu">25.00</span>
-							</p>
-							<p><a class="btn btn-primary btn-book">Take an Order</a></p>
-						</div>
-					</div>
-					<div class="col-md-4 room-wrap animate-box">
-						<a href="images/menu-8.jpg" class="room image-popup-link" style="background-image: url(images/menu-8.jpg);"></a>
-						<div class="desc text-center">
-							<h3><a href="rooms-suites.html">Roast Beef (4 sticks)</a></h3>
-							<p class="price">
-								<span class="currency currency-menu">$</span>
-								<span class="price-room price-menu">30.00</span>
-							</p>
-							<p><a class="btn btn-primary btn-book">Take an Order</a></p>
-						</div>
-					</div>
-					<div class="col-md-4 room-wrap animate-box">
-						<a href="images/menu-9.jpg" class="room image-popup-link" style="background-image: url(images/menu-9.jpg);"></a>
-						<div class="desc text-center">
-							<h3><a href="rooms-suites.html">Salted Fried Chicken</a></h3>
-							<p class="price">
-								<span class="currency currency-menu">$</span>
-								<span class="price-room price-menu">20.00</span>
-							</p>
-							<p><a class="btn btn-primary btn-book">Take An Order</a></p>
-						</div>
-					</div>
 				</div>
 			</div>
 		</div>
@@ -151,14 +107,14 @@
 				<div class="row">
 					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
 						<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
-						<h2>Sign Up for a Newsletter</h2>
-						<p>Get A 50% Discounts in every Rooms, Book now!</p>
+						<h2>Cadastre-se</h2>
+						<p>Receba 50% de desconto na primeira reserva, corre lá!</p>
 						<form class="form-inline qbstp-header-subscribe">
 							<div class="row">
 								<div class="col-md-12 col-md-offset-0">
 									<div class="form-group">
-										<input type="text" class="form-control" id="email" placeholder="Enter your email">
-										<button type="submit" class="btn btn-primary">Subscribe</button>
+										<input type="text" class="form-control" id="email" placeholder="Digite seu e-mail">
+										<button type="submit" class="btn btn-primary">Inscreva-se</button>
 									</div>
 								</div>
 							</div>
@@ -167,65 +123,7 @@
 				</div>
 			</div>
 		</div>
-		<footer id="colorlib-footer" role="contentinfo">
-			<div class="container">
-				<div class="row row-pb-md">
-					<div class="col-md-3 colorlib-widget">
-						<h4>Luxehotel</h4>
-						<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
-						<p>
-							<ul class="colorlib-social-icons">
-								<li><a href="#"><i class="icon-twitter"></i></a></li>
-								<li><a href="#"><i class="icon-facebook"></i></a></li>
-								<li><a href="#"><i class="icon-linkedin"></i></a></li>
-								<li><a href="#"><i class="icon-dribbble"></i></a></li>
-							</ul>
-						</p>
-					</div>
-					<div class="col-md-3 colorlib-widget">
-						<h4>Quick Links</h4>
-						<p>
-							<ul class="colorlib-footer-links">
-								<li><a href="#">Accomodation</a></li>
-								<li><a href="#">Dining &amp; Bar</a></li>
-								<li><a href="#">Restaurants</a></li>
-								<li><a href="#">Beach &amp; Resorts</a></li>
-							</ul>
-						</p>
-					</div>
-					<div class="col-md-3">
-						<h4>Recents Blog Post</h4>
-						<ul class="colorlib-footer-links">
-							<li><a href="#">The Ultimate Packing List For Female Travelers</a></li>
-							<li><a href="#">How These 5 People Found The Path to Their Dream Trip</a></li>
-							<li><a href="#">A Definitive Guide to the Best Dining and Drinking Venues in the City</a></li>
-						</ul>
-					</div>
-
-					<div class="col-md-3 col-md-push-1">
-						<h4>Contact Information</h4>
-						<ul class="colorlib-footer-links">
-							<li>291 South 21th Street, <br> Suite 721 New York NY 10016</li>
-							<li><a href="tel://1234567920">+ 1235 2355 98</a></li>
-							<li><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
-							<li><a href="http://luxehotel.com">luxehotel.com</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-12 text-center">
-						<p>
-							<small class="block">
-								<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart3" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-							</small> 
-							<small class="block">Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
-						</p>
-					</div>
-				</div>
-			</div>
-		</footer>
+		
 	</div>
 
 	<div class="gototop js-top">
@@ -251,6 +149,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	<script src="js/bootstrap-datepicker.js"></script>
 	<!-- Main -->
 	<script src="js/main.js"></script>
+    @include('layouts.foot')
 
 	</body>
 </html>

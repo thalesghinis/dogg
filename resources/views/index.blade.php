@@ -598,7 +598,7 @@
                         <div class="row">
                             <div class="col-md-12 col-md-offset-0">
                                 <div class="form-group">
-                                    <input type="text" class="form-control" id="email" placeholder="Enter your email">
+                                    <input type="text" class="form-control" id="email" placeholder="Digite seu e-mail">
                                     <button type="submit" class="btn btn-primary">Increva-se</button>
                                 </div>
                             </div>
