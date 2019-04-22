@@ -19,8 +19,8 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner slider-text-inner2 text-center">
-				   					<h2>Food be like</h2>
-				   					<h1>Dining &amp; Bar</h1>
+				   					<h2>Todo conforto</h2>
+				   					<h1> Segurança &amp; Lazer</h1>
 				   				</div>
 				   			</div>
 				   		</div>
@@ -34,41 +34,36 @@
 				<div class="row">
 					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
 						<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
-						<h2>Main Menu</h2>
+						<h2>Serviços</h2>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-4 room-wrap animate-box">
 						<a href="images/menu-1.jpg" class="room image-popup-link" style="background-image: url(images/menu-1.jpg);"></a>
 						<div class="desc text-center">
-							<h3><a href="rooms-suites.html">Organic Yoghurt Panna Cotta</a></h3>
+							<h3><a href="rooms-suites.html">Pagamento online ou boleto</a></h3>
 							<p class="price">
-								<span class="currency currency-menu">$</span>
-								<span class="price-room price-menu">25.00</span>
+								<span class="currency currency-menu">Pague tudo direto de sua casa</span>
 							</p>
-							<p><a class="btn btn-primary btn-book">Take an Order</a></p>
 						</div>
 					</div>
 					<div class="col-md-4 room-wrap animate-box">
 						<a href="images/menu-2.jpg" class="room image-popup-link" style="background-image: url(images/menu-2.jpg);"></a>
 						<div class="desc text-center">
-							<h3><a href="rooms-suites.html">Roast Beef (4 sticks)</a></h3>
+							<h3><a href="rooms-suites.html">Busca de localização</a></h3>
 							<p class="price">
-								<span class="currency currency-menu">$</span>
-								<span class="price-room price-menu">30.00</span>
+								<span class="currency currency-menu">Busque o hotel mais próximo</span>
+								<!-- <span class="price-room price-menu">30.00</span> -->
 							</p>
-							<p><a class="btn btn-primary btn-book">Take an Order</a></p>
 						</div>
 					</div>
 					<div class="col-md-4 room-wrap animate-box">
 						<a href="images/menu-3.jpg" class="room image-popup-link" style="background-image: url(images/menu-3.jpg);"></a>
 						<div class="desc text-center">
-							<h3><a href="rooms-suites.html">Salted Fried Chicken</a></h3>
+							<h3><a href="rooms-suites.html">Infos diárias</a></h3>
 							<p class="price">
-								<span class="currency currency-menu">$</span>
-								<span class="price-room price-menu">20.00</span>
+								<span class="currency currency-menu">Receba fotos, vídeos e tenha acesso 24hrs</span>
 							</p>
-							<p><a class="btn btn-primary btn-book">Take an Order</a></p>
 						</div>
 					</div>
 				</div>
@@ -77,10 +72,9 @@
 					<div class="col-md-4 room-wrap animate-box">
 						<a href="images/menu-4.jpg" class="room image-popup-link" style="background-image: url(images/menu-4.jpg);"></a>
 						<div class="desc text-center">
-							<h3><a href="rooms-suites.html">Organic Yoghurt Panna Cotta</a></h3>
+							<h3><a href="rooms-suites.html">Avaliação de perfil</a></h3>
 							<p class="price">
-								<span class="currency currency-menu">$</span>
-								<span class="price-room price-menu">25.00</span>
+								<span class="currency currency-menu">Avalie o perfil e escolha a melhor opção</span>
 							</p>
 							<p><a class="btn btn-primary btn-book">Take an Order</a></p>
 						</div>
