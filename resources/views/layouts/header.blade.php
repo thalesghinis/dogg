@@ -22,7 +22,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-2">
-                        <div id="colorlib-logo"><a href="{{ url('/home') }}">DOGG.pet</a></div>
+                        <div id="colorlib-logo"><a href="{{ url('/home') }}">
+                        <img src="images/afdogg.jpg" alt=""></a></div>
                     </div>
                     <div class="col-xs-10 text-right menu-1">
                         <ul>

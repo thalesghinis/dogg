@@ -106,7 +106,8 @@ h1, h2, h3, h4, h5, h6, figure {
         color: #360568;
         padding: 4px 7px; }
   .colorlib-nav .top-menu {
-    padding: 40px 30px; }
+    padding: 40px 30px;]
+     }
     @media screen and (max-width: 768px) {
       .colorlib-nav .top-menu {
         padding: 28px 1em; } }
@@ -116,6 +117,9 @@ h1, h2, h3, h4, h5, h6, figure {
     padding: 0;
     text-transform: uppercase;
     font-weight: 600; }
+    .colorlib-nav #colorlib-logo img {
+      width: 150px;
+    }
     .colorlib-nav #colorlib-logo a {
       position: relative;
       color: #000; }
@@ -129,7 +133,7 @@ h1, h2, h3, h4, h5, h6, figure {
       display: none; } }
   .colorlib-nav ul {
     padding: 0;
-    margin: 8px 0 0 0; }
+    margin: 35px 0 0 0; }
     .colorlib-nav ul li {
       padding: 0;
       margin: 0;
