@@ -15,17 +15,20 @@ if (isset($_REQUEST["logout"]) && $_REQUEST["logout"]) {
 
 <!DOCTYPE html>
 <html>
+
 <head>
-<meta charset="utf-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Autenticação</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Autenticação</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
+
 <body>
-<h1>Olá <?= $_SESSION["nome"] ?>, bem vindo!</h1>
+    <h1>Olá <?= $_SESSION["nome"] ?>, bem vindo!</h1>
 
-O seu e-mail é <?= $_SESSION["email"] ?>
+    O seu e-mail é <?= $_SESSION["email"] ?>
 
-<a href="areaRestrita.php?logout=1">SAIR</a>
+    <a href="areaRestrita.php?logout=1">SAIR</a>
 </body>
+
 </html>
