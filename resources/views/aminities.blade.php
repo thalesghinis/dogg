@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Document</title>
+	<title>Valores</title>
 	@include('layouts.head')
 </head>
 
@@ -56,16 +56,14 @@
 						</p>
 						</div>
 						<div class="desc animate-box">
-							<h2><a href="#"> Frase inspiradora </a></h2>
+							<h2><a href="#"> "Podemos julgar o coração de um homem pela forma como ele trata os animais." </a></h2>
 							<p class="price">
 								<span class="free">Nossos valores</span>
 							</p>
-							<li>
-									Comportamento
-									Segurança
-									Parceria
-									Cuidado
-							</li>
+							<li>Comportamento</li>
+							<li>Segurança</li>
+							<li>Parceria</li>
+							<li>Cuidado</li>
 						</div>
 						<div class="amenities-img animate-box" style="background-image: url(images/room-5.jpg);"></div>
 						<div class="amenities-img animate-box" style="background-image: url(images/amenities-2.jpg);">

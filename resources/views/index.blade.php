@@ -273,42 +273,8 @@
                                     <p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
                                 </div>
                             </div>
-                            <div class="item">
-                                <a href="images/area-2.jpg" class="room image-popup-link" style="background-image: url(images/area-2.jpg);"></a>
-                                <div class="desc text-center">
-                                    <span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
-                                    <h3><a href="rooms-suites.html">Hotel Vila Olímpia</a></h3>
-                                    <p class="price">
-                                        <span class="currency">R$</span>
-                                        <span class="price-room">59</span>
-                                        <span class="per">/ Por noite</span>
-                                    </p>
-                                    <ul>
-                                        <li><i class="icon-check"></i> Espaço verde de 4 mil metros</li>
-                                        <li><i class="icon-check"></i> Segurança 24 horas</li>
-                                        <li><i class="icon-check"></i> Transfer incluso* &amp; Fotos diárias</li>
-                                    </ul>
-                                    <p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <a href="images/hotel.jpg" class="room image-popup-link" style="background-image: url(images/hotel.jpg);"></a>
-                                <div class="desc text-center">
-                                    <span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
-                                    <h3><a href="rooms-suites.html">Hotel Bolt</a></h3>
-                                    <p class="price">
-                                        <span class="currency"><small>R$</small></span>
-                                        <span class="price-room">69</span>
-                                        <span class="per">/ Por noite</span>
-                                    </p>
-                                    <ul>
-                                        <li><i class="icon-check"></i> Espaço verde de 3 mil metros</li>
-                                        <li><i class="icon-check"></i> Vet 24 horas</li>
-                                        <li><i class="icon-check"></i> Transfer incluso* &amp; Fotos diárias</li>
-                                    </ul>
-                                    <p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
-                                </div>
-                            </div>
+                           
+                            
                         </div>
                     </div>
                     <div class="col-md-12 text-center animate-box">
@@ -553,7 +519,7 @@
                         <small>Cliente satisfeito</small>
                         <blockquote>
                             <p>
-                                </i> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Mollitia consequatur fuga voluptate ea voluptatum, incidunt dolore quis, quam perspiciatis quasi et sit nulla? Recusandae optio, fugit incidunt quasi rerum dolore?.</p>
+                                </i> "A DOGG foi a melhor experiência que o meu PET já teve. Eu conseguia monitorá-lo durante toda minha viagem, o que tornou as minhas férias muito mais tranquilas."</p>
                         </blockquote>
                     </div>
                 </div>
@@ -564,7 +530,7 @@
                         <small>Cliente satisfeito</small>
                         <blockquote>
                             <p>
-                                </i> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Mollitia consequatur fuga voluptate ea voluptatum, incidunt dolore quis, quam perspiciatis quasi et sit nulla? Recusandae optio, fugit incidunt quasi rerum dolore?.</p>
+                                </i> "Gostaria de parabenizar a DOGG, pela plataforma, pelas orientações constantes no site e principalmente o seguro em caso de qualquer eventualidade com a saúde do PET."</p>
                         </blockquote>
                     </div>
                 </div>
@@ -575,8 +541,7 @@
                         <small>Cliente satisfeito</small>
                         <blockquote>
                             <p>
-                                </i> Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorem sapiente eum similique tempore voluptate! Voluptatum, sed hic suscipit corporis omnis, aspernatur aliquid minus ipsa doloribus, modi similique
-                                dolores.
+                                </i> "Quem tem PET, pode contar com a DOGG."
                             </p>
                         </blockquote>
                     </div>

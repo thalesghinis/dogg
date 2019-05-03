@@ -38,7 +38,7 @@
 				</div>
 				<div class="row">
 					<div class="col-md-4 room-wrap animate-box">
-						<a href="images/menu-1.jpg" class="room image-popup-link" style="background-image: url(images/menu-1.jpg);"></a>
+						<a href="images/menu-1.png" class="room image-popup-link" style="background-image: url(images/menu-1.png);"></a>
 						<div class="desc text-center">
 							<h3><a href="rooms-suites.html">Pagamento online ou boleto</a></h3>
 							<p class="price">
@@ -47,7 +47,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 room-wrap animate-box">
-						<a href="images/menu-2.jpg" class="room image-popup-link" style="background-image: url(images/menu-2.jpg);"></a>
+						<a href="images/menu-2.png" class="room image-popup-link" style="background-image: url(images/menu-2.png);"></a>
 						<div class="desc text-center">
 							<h3><a href="rooms-suites.html">Busca de localização</a></h3>
 							<p class="price">
@@ -56,7 +56,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 room-wrap animate-box">
-						<a href="images/menu-3.jpg" class="room image-popup-link" style="background-image: url(images/menu-3.jpg);"></a>
+						<a href="images/menu-3.png	" class="room image-popup-link" style="background-image: url(images/menu-3.png);"></a>
 						<div class="desc text-center">
 							<h3><a href="rooms-suites.html">Infos diárias</a></h3>
 							<p class="price">
@@ -66,42 +66,12 @@
 					</div>
 				</div>
 
-				<div class="row row-pb-lg">
-					<div class="col-md-4 room-wrap animate-box">
-						<a href="images/menu-4.jpg" class="room image-popup-link" style="background-image: url(images/menu-4.jpg);"></a>
-						<div class="desc text-center">
-							<h3><a href="rooms-suites.html">Avaliação de perfil</a></h3>
-							<p class="price">
-								<span class="currency currency-menu">Avalie o perfil e escolha a melhor opção</span>
-							</p>
-							<p><a class="btn btn-primary btn-book">VAI USAR?</a></p>
-						</div>
-					</div>
-					<div class="col-md-4 room-wrap animate-box">
-						<a href="images/menu-5.jpg" class="room image-popup-link" style="background-image: url(images/menu-5.jpg);"></a>
-						<div class="desc text-center">
-							<h3><a href="rooms-suites.html">Programa diferenciado</a></h3>
-							<p class="price">
-								<span class="currency currency-menu">Diversas opções</span>
-							</p>
-							<p><a class="btn btn-primary btn-book">VAI USAR?</a></p>
-						</div>
-					</div>
-					<div class="col-md-4 room-wrap animate-box">
-						<a href="images/menu-6.jpg" class="room image-popup-link" style="background-image: url(images/menu-6.jpg);"></a>
-						<div class="desc text-center">
-							<h3><a href="rooms-suites.html">Segurança 24hrs</a></h3>
-							<p class="price">
-								<span class="currency currency-menu">Saiba como seu pet está, 24/7</span>
-							</p>
-							<p><a class="btn btn-primary btn-book">VAI USAR?</a></p>
-						</div>
-					</div>
+				
 				</div>
 				</div>
 			</div>
 		</div>
-		<div id="colorlib-subscribe" style="background-image: url(images/img_bg_2.jpg);">
+		<div id="colorlib-subscribe" style="background-image: url(images/agua-animal.jpg);">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">

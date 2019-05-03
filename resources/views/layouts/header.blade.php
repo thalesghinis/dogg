@@ -22,7 +22,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-2">
-                        <div id="colorlib-logo"><a href="{{ url('/home') }}">
+                        <div id="colorlib-logo"><a href="{{ url('/') }}">
                         <img src="images/afdogg.jpg" alt=""></a></div>
                     </div>
                     <div class="col-xs-10 text-right menu-1">
@@ -43,7 +43,6 @@
                             <!-- <li><a href="about.html">Instagram</a></li> -->
                             <!-- <li><a href="{{ url('/contact') }}">Contato</a></li> -->
                             <li><a href="{{ url('/login') }}">Login</a></li>
-                            <li><a href="{{ url('/register') }}">Registre-se</a></li>
                         </ul>
                     </div>
                 </div>
