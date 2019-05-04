@@ -1,14 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>DOOG.pet</title>
-    @include('layouts.head')
-</head>
-
+@include('layouts.head')
 
 <body>
 @include('layouts.header')
@@ -25,7 +18,7 @@
                                         <h2>Bem vindo a DOGG</h2>
                                         <h1>DOGG</h1>
                                         <p>
-                                            <a class="btn btn-primary btn-demo" href="#"></i>Detalhes</a> <a class="btn btn-primary btn-learn">Saiba mais</a></p>
+                                            <a class="btn btn-primary btn-demo"></i>Detalhes</a> <a class="btn btn-primary btn-learn">Saiba mais</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -152,8 +145,8 @@
                             <span class="icon">
                                 <i class="flaticon-reception"></i>
                             </span>
-                            <h3>Atendimento 24/7</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <h3>Atendimento 24rs</h3>
+                            <p>Atendimento 24 horas, todos os dias da semana! </p>
                         </div>
                     </div>
                     <div class="col-md-3 animate-box text-center">
@@ -162,7 +155,7 @@
                                 <i class="flaticon-herbs"></i>
                             </span>
                             <h3>Serviço de Transfer</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>Não se preocupe em levar os buscar, fazemos isso por você!</p>
                         </div>
                     </div>
                     <div class="col-md-3 animate-box text-center">
@@ -171,7 +164,7 @@
                                 <i class="flaticon-car"></i>
                             </span>
                             <h3>Seguro Saúde</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>Segurança total, e atendimento vet para seu PET!</p>
                             <p></p>
                         </div>
                     </div>
@@ -180,9 +173,9 @@
                             <span class="icon">
                                 <i class="flaticon-cheers"></i>
                             </span>
-                            <h3>Passeio Individual &amp; Creche</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                            <p></p>
+                            <h3>Creche</h3>
+                            <p>Conheça a Creche para seu PET. Programa de adestramento e atenção total enquanto você trabalha!</p>
+                            <p></p>    
                         </div>
                     </div>
                 </div>
@@ -195,7 +188,7 @@
                     <div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
                         <span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
                         <h2>Conforto &amp; Lazer</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>Total conforto e lazer para seu PET. Atenção que eles merecem!</p>
                     </div>
                 </div>
                 <div class="row">
@@ -453,7 +446,7 @@
                 <div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
                     <span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
                     <h2>Blog DOGG</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam dicta dolore est? Sapiente expedita ut animi eveniet incidunt, cumque facere praesentium similique, veritatis minus quas commodi maxime nostrum eaque harum.</p>
+                    <p>Nosso blog com notícias e novidades para você!</p>
                 </div>
             </div>
             <div class="blog-flex">
