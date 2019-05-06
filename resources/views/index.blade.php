@@ -19,11 +19,13 @@
                                         <h1>DOGG</h1>
                                         <p>
                                             <a class="btn btn-primary btn-demo"></i>Detalhes</a> <a class="btn btn-primary btn-learn">Saiba mais</a></p>
+                                   
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </li>        
+                    
                     <li id="bgp-100" style="background-image: url(images/family2.jpg);">
                         <div class="overlay"></div>
                         <div class="container-fluid">

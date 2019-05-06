@@ -19,5 +19,8 @@ Route::get('/blog', 'HomeController@blog');
 Route::get('/contact', 'HomeController@contact');
 Route::get('/login', 'HomeController@login');
 Route::get('/register', 'HomeController@register');
+Route::get('/conheca', 'HomeController@conheca');
+Route::get('/faq', 'HomeController@faq');
+
 
 Auth::routes();

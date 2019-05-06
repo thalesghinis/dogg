@@ -50,5 +50,14 @@ class HomeController extends Controller
   {
     return view('register');
   }
+
+  public function conheca()
+  {
+    return view('conheca');
+  }
   
+  public function faq()
+  {
+    return view('faq');
+  }
 }
