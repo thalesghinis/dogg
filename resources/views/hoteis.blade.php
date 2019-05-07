@@ -71,6 +71,100 @@
 				</div>
 			</div>
 		</div>
+
+		<!-- rooms -->
+        <div id="colorlib-rooms" class="colorlib-light-grey">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
+                        <span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
+                        <h2>Hotéis &amp; Creches</h2>
+                        <p>Total conforto e lazer para seu PET. Atenção que eles merecem!</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 animate-box">
+                        <div class="owl-carousel owl-carousel2">
+                            <div class="item">
+                                <a href="images/dog-room.jpg" class="room image-popup-link" style="background-image: url(images/dog-room.jpg);"></a>
+                                <div class="desc text-center">
+                                    <span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star- full"></i><i class="icon-star-full full"></i></span>
+                                    <h3><a href="rooms-suites.html">Suite DOGG</a></h3>
+                                    <p class="price">
+                                        <span class="currency">R$</span>
+                                        <span class="price-room">79</span>
+                                        <span class="per">/ Por noite</span>
+                                    </p>
+                                    <ul>
+                                        <li><i class="icon-check"></i> Apenas 10 unidades</li>
+                                        <li><i class="icon-check"></i> All inclusive (Comidinhas já no valor)</li>
+                                        <li><i class="icon-check"></i> Transfer &amp; Banho a cada 10 dias</li>
+                                    </ul>
+                                    <p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <a href="images/dog-room-2.jpg" class="room image-popup-link" style="background-image: url(images/dog-room-2.jpg);"></a>
+                                <div class="desc text-center">
+                                    <span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
+                                    <h3><a href="rooms-suites.html">Hostel DOGG</a></h3>
+                                    <p class="price">
+                                        <span class="currency">R$</span>
+                                        <span class="price-room">39</span>
+                                        <span class="per">/ Por noite</span>
+                                    </p>
+                                    <ul>
+                                        <li><i class="icon-check"></i> No máximo 8 PETS</li>
+                                        <li><i class="icon-check"></i> Espaçoso e ventilado</li>
+                                        <li><i class="icon-check"></i> Camera 24 horas &amp; Banho a cada 10 dias</li>
+                                    </ul>
+                                    <p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <a href="images/dog-room-3.jpg" class="room image-popup-link" style="background-image: url(images/dog-room-3.jpg);"></a>
+                                <div class="desc text-center">
+                                    <span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
+                                    <h3><a href="rooms-suites.html">Família DOGG</a></h3>
+                                    <p class="price">
+                                        <span class="currency">R$</span>
+                                        <span class="price-room">99</span>
+                                        <span class="per">/ Por noite</span>
+                                    </p>    
+                                    <ul>
+                                        <li><i class="icon-check"></i> 2 Camas</li>
+                                        <li><i class="icon-check"></i> Comporta até 3 pets*</li>
+                                        <li><i class="icon-check"></i> Seus PETS não se separam</li>
+                                    </ul>
+                                    <p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <a href="images/dogyoda.jpg" class="room image-popup-link" style="background-image: url(images/dogyoda.jpg);"></a>
+                                <div class="desc text-center">
+                                    <span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
+                                    <h3><a href="rooms-suites.html">Hotel Paulista</a></h3>
+                                    <p class="price">
+                                        <span class="currency">R$</span>
+                                        <span class="price-room">49</span>
+                                        <span class="per">/ Por noite</span>
+                                    </p>
+                                    <ul>
+                                        <li><i class="icon-check"></i> Quarto espaçoso para 8 PETS</li>
+                                        <li><i class="icon-check"></i> Espaço verde 16 horas por dia</li>
+                                        <li><i class="icon-check"></i> Camera 24 horas &amp; Transfer</li>
+                                    </ul>
+                                    <p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 text-center animate-box">
+                        <a href="#">View all rooms <i class="icon-arrow-right3"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
 		<div id="colorlib-subscribe" style="background-image: url(images/agua-animal.jpg);">
 			<div class="overlay"></div>
 			<div class="container">

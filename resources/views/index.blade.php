@@ -164,14 +164,14 @@
                             <span class="icon">
                                 <i class="flaticon-reception"></i>
                             </span>
-                            <h3>Atendimento 24rs</h3>
+                            <h3>Atendimento 24 horas</h3>
                             <p>Atendimento 24 horas, todos os dias da semana! </p>
                         </div>
                     </div>
                     <div class="col-md-3 animate-box text-center">
                         <div class="services">
                             <span class="icon">
-                                <i class="flaticon-herbs"></i>
+                                <i class="flaticon-car"></i>
                             </span>
                             <h3>Serviço de Transfer</h3>
                             <p>Não se preocupe em levar os buscar, fazemos isso por você!</p>
@@ -180,7 +180,7 @@
                     <div class="col-md-3 animate-box text-center">
                         <div class="services">
                             <span class="icon">
-                                <i class="flaticon-car"></i>
+                                <i class="flaticon-herbs"></i>
                             </span>
                             <h3>Seguro Saúde</h3>
                             <p>Segurança total, e atendimento vet para seu PET!</p>
@@ -323,10 +323,11 @@
                                 <div class="desc">
                                     <span class="date">Janeiro 24, 2019</span>
                                     <h3>Conheça nosso programa de adestramento</h3>
-                                    <span class="cat">Atividades</span>
+                                    <span class="cat">Atividades</span> 
                                 </div>
                             </a>
                         </div>
+
                         <div class="col-md-12 animate-box">
                             <a href="blog.html" class="blog-post">
                                 <span class="img" style="background-image: url(images/premio.jpg);"></span>

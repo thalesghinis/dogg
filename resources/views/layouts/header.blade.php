@@ -31,14 +31,14 @@
                             <li class="has-dropdown">
                                 <a href="/rooms-suites">Seja um DOGG.pet</a>
                                 <ul class="dropdown">
-                                    <li><a href="{{ url('/quemsomos') }}">Quem somos</a></li>
+                                        <li><a href="{{ url('/quemsomos') }}">Quem somos</a></li>
                                    <!-- <li><a href="#">Porque ser um DOGG.pet</a></li> -->
                                     <li><a href="{{ url('/conheca') }}">Conheça a DOGG.pet</a></li>
                                     <li><a href="{{ url('/contact') }}">Contato</a></li>
                                     <li><a href="{{ url('/faq') }}">FAQ</a></li>
                                 </ul>
                             </li>
-                            <li><a href="{{ url('/hoteis') }}">Hotéis &amp; Passeios</a></li>
+                            <li><a href="{{ url('/hoteis') }}">Hotéis &amp; Creches</a></li>
                             <!-- <li><a href="{{ url('/blog') }}">(A)</a></li> -->
                             <!-- <li><a href="about.html">Instagram</a></li> -->
                             <!-- <li><a href="{{ url('/contact') }}">Contato</a></li> -->
