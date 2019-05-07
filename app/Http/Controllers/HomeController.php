@@ -21,14 +21,14 @@ class HomeController extends Controller
     return view('rooms-suites');
   }
   
-  public function diningBar()
+  public function hoteis()
   {
-    return view('dining-bar');
+    return view('hoteis');
   }
   
-  public function aminities()
+  public function quemsomos()
   {
-    return view('aminities');
+    return view('quemsomos');
   }
   
   public function blog()

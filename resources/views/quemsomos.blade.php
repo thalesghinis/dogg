@@ -37,10 +37,11 @@
 			<div class="container">
 				<div class="row">
 					<div class="amenities-flex">
-						<div class="amenities-img animate-box" style="background-image: url(images/amenities-1.jpg);">
+						<div class="amenities-img animate-box" style="background-image: url(images/catwhite.jpg);">
 						</div>
 						<div class="desc animate-box">
-							<h2><a href="#">Frase inspiradora</a></h2>
+							<h2><a href="#">“A compaixão para com os animais é das mais nobres virtudes da natureza humana.”</a></h2>
+							<p>- Charles Darwin</p>
 							<p class="price">
 								<span class="free">Nossa motivação</span>
 							</p>
@@ -57,6 +58,7 @@
 						</div>
 						<div class="desc animate-box">
 							<h2><a href="#"> "Podemos julgar o coração de um homem pela forma como ele trata os animais." </a></h2>
+							<p>- Immanuel Kant</p>
 							<p class="price">
 								<span class="free">Nossos valores</span>
 							</p>
@@ -65,7 +67,7 @@
 							<li>Parceria</li>
 							<li>Cuidado</li>
 						</div>
-						<div class="amenities-img animate-box" style="background-image: url(images/room-5.jpg);"></div>
+						<div class="amenities-img animate-box" style="background-image: url(images/dogbw.jpg);"></div>
 						<!-- <div class="amenities-img animate-box" style="background-image: url(images/amenities-2.jpg);">
 						</div>
 						<div class="desc animate-box">

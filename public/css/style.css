@@ -90,7 +90,6 @@ h1, h2, h3, h4, h5, h6, figure {
     text-align: center;
     text-decoration: none;
     text-indent: 0;
-    background: #900;
     border: 2px solid #fff;
     -webkit-border-radius:  26px;
     -moz-border-radius:     26px;
@@ -100,7 +99,7 @@ h1, h2, h3, h4, h5, h6, figure {
     -webkit-box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
     box-shadow:         1px 1px 5px rgba(0,0,0,0.5);
   }
-  
+
 .colorlib-nav {
   margin: 0; }
   @media screen and (max-width: 768px) {
