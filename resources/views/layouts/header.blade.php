@@ -42,7 +42,11 @@
                             <!-- <li><a href="{{ url('/blog') }}">(A)</a></li> -->
                             <!-- <li><a href="about.html">Instagram</a></li> -->
                             <!-- <li><a href="{{ url('/contact') }}">Contato</a></li> -->
-                            <li><a href="{{ url('/login') }}">Login</a></li>
+                            @guest
+                                <li><a href="{{ url('/login') }}">Login</a></li>
+                            @else
+                                <li><a href="{{ url('/logout') }}">Logout</a></li>
+                            @endguest
                         </ul>
                     </div>
                 </div>

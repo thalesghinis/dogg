@@ -1,5 +1,5 @@
 1. Abrir o Shell do XAMPP ou o Git Bash
-=================================================================
+============================================================
 Sincronizar os arquivos entre o "Servidor x Computador":
 1. Executar: "CD C:/xampp/htdocs/{nomeProjeto}"
 3. Executar: "git status" (verificar o status da pasta.)
@@ -7,11 +7,11 @@ Sincronizar os arquivos entre o "Servidor x Computador":
 	Resposta: "Already up to date."
 5. Comece a trabalhar nos arquivos.
 
-=================================================================
+============================================================
 
 Sincronizar os arquivos entre o "Computador X Servidor":
 3. Executar: "git add ." (adicionar todos os arquivos estidados).
 4. Executar: "git commit -m "instrução das alterações" 
 5. Executar: "git push" (sincronizar os arquivos atualizados).
 
-=================================================================
+============================================================
