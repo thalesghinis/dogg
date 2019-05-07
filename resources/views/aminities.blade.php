@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Valores</title>
+	<title>DOGG.pet</title>
 	@include('layouts.head')
 </head>
 
@@ -66,7 +66,7 @@
 							<li>Cuidado</li>
 						</div>
 						<div class="amenities-img animate-box" style="background-image: url(images/room-5.jpg);"></div>
-						<div class="amenities-img animate-box" style="background-image: url(images/amenities-2.jpg);">
+						<!-- <div class="amenities-img animate-box" style="background-image: url(images/amenities-2.jpg);">
 						</div>
 						<div class="desc animate-box">
 							<h2><a href="#">SPA &amp; Beauty Centre</a></h2>
@@ -91,13 +91,12 @@
 								recusandae sequi aut? Ratione, enim, consequatur!</p>
 						</div>
 						<div class="amenities-img animate-box" style="background-image: url(images/amenities-3.jpg);">
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div id="colorlib-subscribe" style="background-image: url(images/img_bg_2.jpg);">
+						</div> -->
+					</div> 
+				</div> 
+			</div> 
+		</div> 
+		<div id="colorlib-subscribe" style="background-image: url(images/dog-5.jpg);">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
@@ -105,15 +104,15 @@
 						<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i
 								class="icon-star-full"></i><i class="icon-star-full"></i><i
 								class="icon-star-full"></i></span>
-						<h2>Sign Up for a Newsletter</h2>
-						<p>Get A 50% Discounts in every Rooms, Book now!</p>
+								<h2>Cadastre-se</h2>
+                    <p>Receba 50% de desconto na primeira reserva, corre lá!</p>
 						<form class="form-inline qbstp-header-subscribe">
 							<div class="row">
 								<div class="col-md-12 col-md-offset-0">
 									<div class="form-group">
 										<input type="text" class="form-control" id="email"
-											placeholder="Enter your email">
-										<button type="submit" class="btn btn-primary">Subscribe</button>
+											placeholder="Seu e-mail">
+										<button type="submit" class="btn btn-primary">Inscreva-se</button>
 									</div>
 								</div>
 							</div>

@@ -18,13 +18,19 @@
                                         <h2>Bem vindo a DOGG</h2>
                                         <h1>DOGG</h1>
                                         <p>
-                                            <a class="btn btn-primary btn-demo"></i>Detalhes</a> <a class="btn btn-primary btn-learn">Saiba mais</a></p>
-                                   
+                                            <a class="btn btn-primary btn-demo"  href="#ex1" rel="modal:open"></i>Detalhes</a> <a class="btn btn-primary btn-learn" href="#ex2" rel="modal:open">Saiba mais</a></p>
+                                            <div id="ex1" class="modal">
+                                            <p>Seu portal de hotelaria e creche para seu PET!</p>
+                                            <a href="#" rel="modal:close">Close</a>
+                                            </div>
+                                            <div id="ex2" class="modal">
+                                            <p>O melhor serviço de hotelaria para PET´s do país!</p>
+                                            <a href="#" rel="modal:close">Close</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                    </li>        
+                            </li>        
                     
                     <li id="bgp-100" style="background-image: url(images/family2.jpg);">
                         <div class="overlay"></div>
@@ -35,12 +41,23 @@
                                         <h2> BLA BLA &amp; BLA BLA</h2>
                                         <h1>Tudo que seu PET precisa</h1>
                                         <p>
-                                            <a class="btn btn-primary btn-demo" href="#"></i> Detalhes</a> <a class="btn btn-primary btn-learn">Saiba mais</a></p>
+                                            <a class="btn btn-primary btn-demo" href="#ex1" rel="modal:open"></i> Detalhes</a> <a class="btn btn-primary btn-learn" href="#ex2" rel="modal:open">Saiba mais</a></p>
+                                        <!-- Modal HTML embedded directly into document -->
+                                            <div id="ex1" class="modal">
+                                            <p>Serviço Vet <br>
+                                                TáxiDog <br>
+                                                Câmera 24 hrs</p>
+                                            <a href="#" rel="modal:close">Close</a>
+                                            </div>
+                                            <div id="ex1" class="modal">
+                                            <p>Toda a atenção e carinho que seu PET merece!</p>
+                                            <a href="#" rel="modal:close">Close</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </li>
+                        </li>
                     <li id="bgp-100" style="background-image: url(images/dog1.jpg);">
                         <div class="overlay"></div>
                         <div class="container-fluids">

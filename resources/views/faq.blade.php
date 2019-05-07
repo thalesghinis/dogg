@@ -116,8 +116,8 @@ Para ficar mais claro, fizemos um vídeo que explica melhor como agir nessas sit
 							<div class="row">
 								<div class="col-md-12 col-md-offset-0">
 									<div class="form-group">
-										<input type="text" class="form-control" id="email" placeholder="Enter your email">
-										<button type="submit" class="btn btn-primary">Subscribe</button>
+										<input type="text" class="form-control" id="email" placeholder="Seu e-mail">
+										<button type="submit" class="btn btn-primary">Inscreva-se</button>
 									</div>
 								</div>
 							</div>
