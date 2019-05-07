@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Document</title>
+	<title>DOGG.pet</title>
 	@include('layouts.head')
 </head>
 
@@ -17,14 +17,14 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-					<li style="background-image: url(images/dogview.jpg);">
+					<li style="background-image: url(images/mulherdog.jpg);">
 						<div class="overlay"></div>
 						<div class="container-fluid">
 							<div class="row">
 								<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 									<div class="slider-text-inner slider-text-inner2 text-center">
-										<h1>Cuidando</h1>
-										<h2> de quem você mais ama</h2>
+										<h1>Conheça</h1>
+										<h2>A DOGG</h2>
 									</div>
 								</div>
 							</div>
@@ -37,69 +37,36 @@
 			<div class="container">
 				<div class="row">
 					<div class="amenities-flex">
-						<div class="amenities-img animate-box" style="background-image: url(images/amenities-1.jpg);">
+						<div class="amenities-img animate-box" style="background-image: url(images/whitelab.jpg);">
 						</div>
 						<div class="desc animate-box">
-							<h2><a href="#">Frase inspiradora</a></h2>
+							<h2><a href="#"></a>Conheça</h2>
 							<p class="price">
-								<span class="free">Nossa motivação</span>
+								<span class="free">Amor pelos animais</span>
 							</p>
-							<p>Acreditamos que o amor por pets é representado com comportamento.
-							Quem ama se especializa para entregar a melhor experiência e segurança
-							que um pet pode ter.
-
-							Quem é tutor, procura por um alguém com paixão, que esteja em um local confiavel,
-							que ofereça monitoramento adequado e prover edução de primeiro mundo para aquele que 
-							ele ama de paixão.
-
-							E nós da DOGG.PET conectamos os mundos.						
+							<p>A DOGG tem como sua principal idéia, desde 2019, trazer para todas as pessoas 
+							que amam seus bichinhos, segurança, cuidado e amor. Não somos apenas um lugar.					
 						</p>
 						</div>
 						<div class="desc animate-box">
-							<h2><a href="#"> Frase inspiradora </a></h2>
+							<h2><a href="#"> "Podemos julgar o coração de um homem pela forma como ele trata os animais." </a></h2>
 							<p class="price">
 								<span class="free">Nossos valores</span>
 							</p>
-							<li>
-									Comportamento
-									Segurança
-									Parceria
-									Cuidado
-							</li>
+							<li>Comportamento</li>
+							<li>Segurança</li>
+							<li>Parceria</li>
+							<li>Cuidado</li>
 						</div>
-						<div class="amenities-img animate-box" style="background-image: url(images/room-5.jpg);"></div>
-						<div class="amenities-img animate-box" style="background-image: url(images/amenities-2.jpg);">
-						</div>
-						<div class="desc animate-box">
-							<h2><a href="#">SPA &amp; Beauty Centre</a></h2>
-							<p class="price">
-								<span class="currency">$</span>
-								<span class="price-room">59</span>
-								<span class="per">/ per person</span>
-							</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi voluptates eius, nam
-								laudantium, quasi laborum cumque asperiores totam est perferendis itaque id esse quidem
-								recusandae sequi aut? Ratione, enim, consequatur!</p>
-						</div>
-						<div class="desc animate-box">
-							<h2><a href="#">Conference Hall for Business Events</a></h2>
-							<p class="price">
-								<span class="currency">$</span>
-								<span class="price-room">359</span>
-								<span class="per">/ per night / room</span>
-							</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi voluptates eius, nam
-								laudantium, quasi laborum cumque asperiores totam est perferendis itaque id esse quidem
-								recusandae sequi aut? Ratione, enim, consequatur!</p>
-						</div>
-						<div class="amenities-img animate-box" style="background-image: url(images/amenities-3.jpg);">
+						
+						<div class="amenities-img animate-box" style="background-image: url(images/lambidagato.jpg);">
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 
-		<div id="colorlib-subscribe" style="background-image: url(images/img_bg_2.jpg);">
+		<div id="colorlib-subscribe" style="background-image: url(images/dog-5.jpg);">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
@@ -107,8 +74,8 @@
 						<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i
 								class="icon-star-full"></i><i class="icon-star-full"></i><i
 								class="icon-star-full"></i></span>
-						<h2>Sign Up for a Newsletter</h2>
-						<p>Get A 50% Discounts in every Rooms, Book now!</p>
+								<h2>Cadastre-se</h2>
+                    <p>Receba 50% de desconto na primeira reserva, corre lá!</p>
 						<form class="form-inline qbstp-header-subscribe">
 							<div class="row">
 								<div class="col-md-12 col-md-offset-0">

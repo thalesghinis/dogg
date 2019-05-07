@@ -72,24 +72,6 @@
 						</div>
 					</div>
 					<div class="col-md-4 room-wrap animate-box">
-						<a href="images/room-3.jpg" class="room image-popup-link" style="background-image: url(images/room-3.jpg);"></a>
-						<div class="desc text-center">
-							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
-							<h3><a href="rooms-suites.html">Quarto família</a></h3>
-							<p class="price">
-								<span class="currency">R$</span>
-								<span class="price-room">249</span>
-								<span class="per">/ por noite e para 4 pets</span>
-							</p>
-							<ul>
-								<li><i class="icon-check"></i> Espaço amplo para até 4 pets*</li>
-								<li><i class="icon-check"></i> Ração premium inclusa</li>
-								<li><i class="icon-check"></i> Vet 24hrs </li>
-							</ul>
-							<p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
-						</div>
-					</div>
-					<div class="col-md-4 room-wrap animate-box">
 						<a href="images/room-4.jpg" class="room image-popup-link" style="background-image: url(images/room-4.jpg);"></a>
 						<div class="desc text-center">
 							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
@@ -103,6 +85,24 @@
 								<li><i class="icon-check"></i> Espaço compartilhada para até 8 pets*</li>
 								<li><i class="icon-check"></i> Conforto e espaço garantido</li>
 								<li><i class="icon-check"></i> Jardim amplo &amp; Atividades diárias</li>
+							</ul>
+							<p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
+						</div>
+					</div>
+					<!-- <div class="col-md-4 room-wrap animate-box">
+						<a href="images/room-3.jpg" class="room image-popup-link" style="background-image: url(images/room-3.jpg);"></a>
+						<div class="desc text-center">
+							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
+							<h3><a href="rooms-suites.html">Quarto família</a></h3>
+							<p class="price">
+								<span class="currency">R$</span>
+								<span class="price-room">249</span>
+								<span class="per">/ por noite e para 4 pets</span>
+							</p>
+							<ul>
+								<li><i class="icon-check"></i> Espaço amplo para até 4 pets*</li>
+								<li><i class="icon-check"></i> Ração premium inclusa</li>
+								<li><i class="icon-check"></i> Vet 24hrs </li>
 							</ul>
 							<p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
 						</div>
@@ -142,11 +142,11 @@
 							</ul>
 							<p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
 						</div>
-					</div>
-				</div>
+					</div> -->
+				</div>  
 			</div>
-		</div>
-	
+		</div> 
+
 		<div id="colorlib-subscribe" style="background-image: url(images/img_bg_2.jpg);">
 			<div class="overlay"></div>
 			<div class="container">

@@ -1,14 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>DOOG.pet</title>
-    @include('layouts.head')
-</head>
-
+@include('layouts.head')
 
 <body>
 @include('layouts.header')
@@ -25,12 +18,20 @@
                                         <h2>Bem vindo a DOGG</h2>
                                         <h1>DOGG</h1>
                                         <p>
-                                            <a class="btn btn-primary btn-demo" href="#"></i>Detalhes</a> <a class="btn btn-primary btn-learn">Saiba mais</a></p>
+                                            <a class="btn btn-primary btn-demo"  href="#ex1" rel="modal:open"></i>Detalhes</a> <a class="btn btn-primary btn-learn" href="#ex2" rel="modal:open">Saiba mais</a></p>
+                                            <div id="ex1" class="modal">
+                                            <p>Seu portal de hotelaria e creche para seu PET!</p>
+                                            <a href="#" rel="modal:close">Close</a>
+                                            </div>
+                                            <div id="ex2" class="modal">
+                                            <p>O melhor serviço de hotelaria para PET´s do país!</p>
+                                            <a href="#" rel="modal:close">Close</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                    </li>        
+                            </li>        
+                    
                     <li id="bgp-100" style="background-image: url(images/family2.jpg);">
                         <div class="overlay"></div>
                         <div class="container-fluid">
@@ -40,12 +41,23 @@
                                         <h2> BLA BLA &amp; BLA BLA</h2>
                                         <h1>Tudo que seu PET precisa</h1>
                                         <p>
-                                            <a class="btn btn-primary btn-demo" href="#"></i> Detalhes</a> <a class="btn btn-primary btn-learn">Saiba mais</a></p>
+                                            <a class="btn btn-primary btn-demo" href="#ex1" rel="modal:open"></i> Detalhes</a> <a class="btn btn-primary btn-learn" href="#ex2" rel="modal:open">Saiba mais</a></p>
+                                        <!-- Modal HTML embedded directly into document -->
+                                            <div id="ex1" class="modal">
+                                            <p>Serviço Vet <br>
+                                                TáxiDog <br>
+                                                Câmera 24 hrs</p>
+                                            <a href="#" rel="modal:close">Close</a>
+                                            </div>
+                                            <div id="ex1" class="modal">
+                                            <p>Toda a atenção e carinho que seu PET merece!</p>
+                                            <a href="#" rel="modal:close">Close</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </li>
+                        </li>
                     <li id="bgp-100" style="background-image: url(images/dog1.jpg);">
                         <div class="overlay"></div>
                         <div class="container-fluids">
@@ -152,8 +164,8 @@
                             <span class="icon">
                                 <i class="flaticon-reception"></i>
                             </span>
-                            <h3>Atendimento 24/7</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <h3>Atendimento 24rs</h3>
+                            <p>Atendimento 24 horas, todos os dias da semana! </p>
                         </div>
                     </div>
                     <div class="col-md-3 animate-box text-center">
@@ -162,7 +174,7 @@
                                 <i class="flaticon-herbs"></i>
                             </span>
                             <h3>Serviço de Transfer</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>Não se preocupe em levar os buscar, fazemos isso por você!</p>
                         </div>
                     </div>
                     <div class="col-md-3 animate-box text-center">
@@ -171,7 +183,7 @@
                                 <i class="flaticon-car"></i>
                             </span>
                             <h3>Seguro Saúde</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>Segurança total, e atendimento vet para seu PET!</p>
                             <p></p>
                         </div>
                     </div>
@@ -180,9 +192,9 @@
                             <span class="icon">
                                 <i class="flaticon-cheers"></i>
                             </span>
-                            <h3>Passeio Individual &amp; Creche</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                            <p></p>
+                            <h3>Creche</h3>
+                            <p>Conheça a Creche para seu PET. Programa de adestramento e atenção total enquanto você trabalha!</p>
+                            <p></p>    
                         </div>
                     </div>
                 </div>
@@ -195,7 +207,7 @@
                     <div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
                         <span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
                         <h2>Conforto &amp; Lazer</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>Total conforto e lazer para seu PET. Atenção que eles merecem!</p>
                     </div>
                 </div>
                 <div class="row">
@@ -273,42 +285,8 @@
                                     <p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
                                 </div>
                             </div>
-                            <div class="item">
-                                <a href="images/area-2.jpg" class="room image-popup-link" style="background-image: url(images/area-2.jpg);"></a>
-                                <div class="desc text-center">
-                                    <span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
-                                    <h3><a href="rooms-suites.html">Hotel Vila Olímpia</a></h3>
-                                    <p class="price">
-                                        <span class="currency">R$</span>
-                                        <span class="price-room">59</span>
-                                        <span class="per">/ Por noite</span>
-                                    </p>
-                                    <ul>
-                                        <li><i class="icon-check"></i> Espaço verde de 4 mil metros</li>
-                                        <li><i class="icon-check"></i> Segurança 24 horas</li>
-                                        <li><i class="icon-check"></i> Transfer incluso* &amp; Fotos diárias</li>
-                                    </ul>
-                                    <p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <a href="images/hotel.jpg" class="room image-popup-link" style="background-image: url(images/hotel.jpg);"></a>
-                                <div class="desc text-center">
-                                    <span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
-                                    <h3><a href="rooms-suites.html">Hotel Bolt</a></h3>
-                                    <p class="price">
-                                        <span class="currency"><small>R$</small></span>
-                                        <span class="price-room">69</span>
-                                        <span class="per">/ Por noite</span>
-                                    </p>
-                                    <ul>
-                                        <li><i class="icon-check"></i> Espaço verde de 3 mil metros</li>
-                                        <li><i class="icon-check"></i> Vet 24 horas</li>
-                                        <li><i class="icon-check"></i> Transfer incluso* &amp; Fotos diárias</li>
-                                    </ul>
-                                    <p><a class="btn btn-primary btn-book">Reserve agora!</a></p>
-                                </div>
-                            </div>
+                           
+                            
                         </div>
                     </div>
                     <div class="col-md-12 text-center animate-box">
@@ -329,7 +307,7 @@
                 <div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
                     <span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
                     <h2>Blog DOGG</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam dicta dolore est? Sapiente expedita ut animi eveniet incidunt, cumque facere praesentium similique, veritatis minus quas commodi maxime nostrum eaque harum.</p>
+                    <p>Nosso blog com notícias e novidades para você!</p>
                 </div>
             </div>
             <div class="blog-flex">
@@ -395,7 +373,7 @@
                         <small>Cliente satisfeito</small>
                         <blockquote>
                             <p>
-                                </i> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Mollitia consequatur fuga voluptate ea voluptatum, incidunt dolore quis, quam perspiciatis quasi et sit nulla? Recusandae optio, fugit incidunt quasi rerum dolore?.</p>
+                                </i> "A DOGG foi a melhor experiência que o meu PET já teve. Eu conseguia monitorá-lo durante toda minha viagem, o que tornou as minhas férias muito mais tranquilas."</p>
                         </blockquote>
                     </div>
                 </div>
@@ -406,7 +384,7 @@
                         <small>Cliente satisfeito</small>
                         <blockquote>
                             <p>
-                                </i> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Mollitia consequatur fuga voluptate ea voluptatum, incidunt dolore quis, quam perspiciatis quasi et sit nulla? Recusandae optio, fugit incidunt quasi rerum dolore?.</p>
+                                </i> "Gostaria de parabenizar a DOGG, pela plataforma, pelas orientações constantes no site e principalmente o seguro em caso de qualquer eventualidade com a saúde do PET."</p>
                         </blockquote>
                     </div>
                 </div>
@@ -417,8 +395,7 @@
                         <small>Cliente satisfeito</small>
                         <blockquote>
                             <p>
-                                </i> Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorem sapiente eum similique tempore voluptate! Voluptatum, sed hic suscipit corporis omnis, aspernatur aliquid minus ipsa doloribus, modi similique
-                                dolores.
+                                </i> "Quem tem PET, pode contar com a DOGG."
                             </p>
                         </blockquote>
                     </div>

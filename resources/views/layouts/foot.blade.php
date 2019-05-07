@@ -3,9 +3,7 @@
         <div class="row row-pb-md">
             <div class="col-md-3 colorlib-widget">
                 <h4>DOGG.pet</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam itaque velit sed at saepe maiores
-                    voluptate qui blanditiis alias tempora vitae, quo, repudiandae, incidunt laborum asperiores
-                    veritatis pariatur vel reprehenderit?</p>
+                <p>Quem tem PET, tem DOGG!</p>
                 <p>
                     <ul class="colorlib-social-icons">
                         <li><a href="www.twitter.com"><i class="icon-twitter"></i></a></li>
@@ -40,8 +38,8 @@
                 <ul class="colorlib-footer-links">
                     <li>Rua dos catioros <br> 100, Oitavo andar</li>
                     <li><a href=""> +55-11-5444-1234</a></li>
-                    <li><a href="mailto:contato@xablau.pet">contato@xabalu.pet</a></li>
-                    <li><a href="http://xablau.pet">www.xabalu.pet</a></li>
+                    <li><a href="mailto:contato@xablau.pet">contato@dogg.pet</a></li>
+                    <li><a href="http://xablau.pet">www.dogg.pet</a></li>
                 </ul>
             </div>
         </div>

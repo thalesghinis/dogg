@@ -22,7 +22,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-2">
-                        <div id="colorlib-logo"><a href="{{ url('/home') }}">
+                        <div id="colorlib-logo"><a href="{{ url('/') }}">
                         <img src="images/afdogg.jpg" alt=""></a></div>
                     </div>
                     <div class="col-xs-10 text-right menu-1">
@@ -31,19 +31,18 @@
                             <li class="has-dropdown">
                                 <a href="/rooms-suites">Seja um DOGG.pet</a>
                                 <ul class="dropdown">
-                                    <li><a href="{{ url('/aminities') }}">Quem somos</a></li>
-                                    <li><a href="#">Porque ser um DOGG.pet</a></li>
-                                    <li><a href="#">Conheça a DOGG.pet</a></li>
-                                    <li><a href="#">Contato</a></li>
-                                    <li><a href="#">FAQ</a></li>
+                                    <li><a href="{{ url('/quemsomos') }}">Quem somos</a></li>
+                                   <!-- <li><a href="#">Porque ser um DOGG.pet</a></li> -->
+                                    <li><a href="{{ url('/conheca') }}">Conheça a DOGG.pet</a></li>
+                                    <li><a href="{{ url('/contact') }}">Contato</a></li>
+                                    <li><a href="{{ url('/faq') }}">FAQ</a></li>
                                 </ul>
                             </li>
-                            <li><a href="{{ url('/dining-bar') }}">Hotéis &amp; Passeios</a></li>
+                            <li><a href="{{ url('/hoteis') }}">Hotéis &amp; Passeios</a></li>
                             <!-- <li><a href="{{ url('/blog') }}">(A)</a></li> -->
                             <!-- <li><a href="about.html">Instagram</a></li> -->
                             <!-- <li><a href="{{ url('/contact') }}">Contato</a></li> -->
                             <li><a href="{{ url('/login') }}">Login</a></li>
-                            <li><a href="{{ url('/register') }}">Registre-se</a></li>
                         </ul>
                     </div>
                 </div>

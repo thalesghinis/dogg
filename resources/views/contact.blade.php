@@ -13,14 +13,14 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(images/img_bg_5.jpg);">
+			   	<li style="background-image: url(images/cutecat.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner slider-text-inner2 text-center">
-				   					<h2>Get in touch</h2>
-				   					<h1>Contact Us</h1>
+				   					<h2>Estamos aqui</h2>
+				   					<h1>Contate-nos</h1>
 				   				</div>
 				   			</div>
 				   		</div>
@@ -34,58 +34,58 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-10 col-md-offset-1 animate-box">
-						<h3>Contact Information</h3>
+						<h3>Informações do contato</h3>
 						<div class="row contact-info-wrap">
 							<div class="col-md-3">
-								<p><span><i class="icon-location-2"></i></span> 198 West 21th Street, <br> Suite 721 New York NY 10016</p>
+								<p><span><i class="icon-location-2"></i></span> Rua dos Catioros, 123  <br> Conjunto 10, São Paulo/SP</p>
 							</div>
 							<div class="col-md-3">
-								<p><span><i class="icon-phone3"></i></span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+								<p><span><i class="icon-phone3"></i></span> <a href="tel://1133552255">+ 55 11 3355-2255</a></p>
 							</div>
 							<div class="col-md-3">
-								<p><span><i class="icon-paperplane"></i></span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+								<p><span><i class="icon-paperplane"></i></span> <a href="mailto:contato@dogg.com.br">contato@dogg.com.br</a></p>
 							</div>
 							<div class="col-md-3">
-								<p><span><i class="icon-globe"></i></span> <a href="#">luxehotel.com</a></p>
+								<p><span><i class="icon-globe"></i></span> <a href="#">dogg.pet</a></p>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-10 col-md-offset-1 animate-box">
-						<h3>Get In Touch</h3>
+						<h3>Pode falar :)</h3>
 						<form action="#">
 							<div class="row form-group">
 								<div class="col-md-6">
-									<label for="fname">First Name</label>
-									<input type="text" id="fname" class="form-control" placeholder="Your firstname">
+									<label for="fname">Nome</label>
+									<input type="text" id="fname" class="form-control" placeholder="Seu primeiro nome">
 								</div>
 								<div class="col-md-6">
-									<label for="lname">Last Name</label>
-									<input type="text" id="lname" class="form-control" placeholder="Your lastname">
+									<label for="lname">Sobrenome</label>
+									<input type="text" id="lname" class="form-control" placeholder="Seu último nome">
 								</div>
 							</div>
 
 							<div class="row form-group">
 								<div class="col-md-12">
-									<label for="email">Email</label>
-									<input type="text" id="email" class="form-control" placeholder="Your email address">
+									<label for="email">E-mail</label>
+									<input type="text" id="email" class="form-control" placeholder="E-mail">
 								</div>
 							</div>
 
 							<div class="row form-group">
 								<div class="col-md-12">
-									<label for="subject">Subject</label>
-									<input type="text" id="subject" class="form-control" placeholder="Your subject of this message">
+									<label for="subject">Assunto</label>
+									<input type="text" id="subject" class="form-control" placeholder="Seu assunto">
 								</div>
 							</div>
 
 							<div class="row form-group">
 								<div class="col-md-12">
-									<label for="message">Message</label>
-									<textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Say something about us"></textarea>
+									<label for="message">Mensagem</label>
+									<textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Escreva sua mensagem"></textarea>
 								</div>
 							</div>
 							<div class="form-group text-center">
-								<input type="submit" value="Send Message" class="btn btn-primary">
+								<input type="submit" value="Enviar" class="btn btn-primary">
 							</div>
 
 						</form>		
@@ -94,16 +94,16 @@
 			</div>
 		</div>
 
-		<div id="map" class="colorlib-map"></div>
+		<!-- <div id="map" class="colorlib-map"></div> -->
 	
-		<div id="colorlib-subscribe" style="background-image: url(images/img_bg_2.jpg);">
+		<div id="colorlib-subscribe" style="background-image: url(images/dog-5.jpg);">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
 						<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
-						<h2>Sign Up for a Newsletter</h2>
-						<p>Get A 50% Discounts in every Rooms, Book now!</p>
+						<h2>Cadastre-se</h2>
+                    <p>Receba 50% de desconto na primeira reserva, corre lá!</p>
 						<form class="form-inline qbstp-header-subscribe">
 							<div class="row">
 								<div class="col-md-12 col-md-offset-0">
