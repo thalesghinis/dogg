@@ -17,7 +17,10 @@ Route::get('/dining-bar', 'HomeController@diningBar');
 Route::get('/aminities', 'HomeController@aminities');
 Route::get('/blog', 'HomeController@blog');
 Route::get('/contact', 'HomeController@contact');
+
 Route::get('/login', 'HomeController@login');
+Route::get('logout', '\App\Http\Controllers\Auth\LoginController@logout');
+
 Route::get('/register', 'HomeController@register');
 
 Auth::routes();

@@ -113,6 +113,9 @@
 											placeholder="Enter your email">
 										<button type="submit" class="btn btn-primary">Subscribe</button>
 									</div>
+									<div>
+										<a href="">Registre-se</a>
+									</div>
 								</div>
 							</div>
 						</form>

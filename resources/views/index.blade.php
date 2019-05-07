@@ -318,164 +318,6 @@
             </div>
         </div>
 
-        <!--
-		<div id="colorlib-dining-bar">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
-						<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
-						<h2>Adestramento &amp; Lorem Ipsum</h2>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis nihil optio qui aut vero doloremque laboriosam sunt recusandae beatae amet libero dolores alias eum et, eius culpa fugit. Impedit, aut!</p>
-					</div>
-				</div>
-				<div class="row">
-					<div class="diningbar-flex">
-						<div class="half animate-box">
-							<ul class="nav nav-tabs text-center" role="tablist">
-								<li role="presentation" class="active"><a href="#mains" aria-controls="mains" role="tab" data-toggle="tab">Mains</a></li>
-								<li role="presentation"><a href="#desserts" aria-controls="desserts" role="tab" data-toggle="tab">Desserts</a></li>
-								<li role="presentation"><a href="#drinks" aria-controls="drinks" role="tab" data-toggle="tab">Drinks</a></li>
-							</ul> -->
-
-
-        <!-- Tab panes -->
-
-        <!--
-			            <div class="tab-content">
-								<div role="tabpanel" class="tab-pane active" id="mains">
-									<div class="row">
-										<div class="col-md-12">
-											<ul class="menu-dish">
-							              <li>
-							                <figure class="image"><img src="images/menu-1.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
-							                <div class="text">
-							                  <span class="price">$25.99</span>
-							                  <h3>Grilled Pork</h3>
-							                  <p class="cat">Meat / Potatoes / Rice</p>
-							                </div>
-							              </li>
-							              <li>
-							                <figure class="image"><img src="images/menu-2.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
-							                <div class="text">
-							                  <span class="price">$30.99</span>
-							                  <h3>Tuna Roast Source</h3>
-							                  <p class="cat">Tuna / Potatoes / Rice</p>
-							                </div>
-							              </li>
-							              <li>
-							                <figure class="image"><img src="images/menu-3.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
-							                <div class="text">
-							                  <span class="price">$40.00</span>
-							                  <h3>Roast Beef (4 sticks)</h3>
-							                  <p class="cat">Crab / Potatoes / Rice</p>
-							                </div>
-							              </li>
-							              <li>
-							                <figure class="image"><img src="images/menu-4.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
-							                <div class="text">
-							                  <span class="price">$20.50</span>
-							                  <h3>Salted Fried Chicken</h3>
-							                  <p class="cat">Crab / Potatoes / Rice</p>
-							                </div>
-							              </li>
-							            </ul>
-										</div>
-									</div>
-								</div>
-
-								<div role="tabpanel" class="tab-pane" id="desserts">
-									<div class="row">
-										<div class="col-md-12">
-											<ul class="menu-dish">
-							              <li>
-							                <figure class="image"><img src="images/menu-1.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
-							                <div class="text">
-							                  <span class="price">$39.90</span>
-							                  <h3>Fried Potatoes with Garlic</h3>
-							                  <p class="cat">Viggies / Potatoes / Rice</p>
-							                </div>
-							              </li>
-							              <li>
-							                <figure class="image"><img src="images/menu-3.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
-							                <div class="text">
-							                  <span class="price">$20.99</span>
-							                  <h3>Tuna Roast Source</h3>
-							                  <p class="cat">Tuna / Potatoes / Rice</p>
-							                </div>
-							              </li>
-							              <li>
-							                <figure class="image"><img src="images/menu-3.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
-							                <div class="text">
-							                  <span class="price">$50.00</span>
-							                  <h3>Roast Beef (4 sticks)</h3>
-							                  <p class="cat">Crab / Potatoes / Rice</p>
-							                </div>
-							              </li>
-							              <li>
-							                <figure class="image"><img src="images/menu-4.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
-							                <div class="text">
-							                  <span class="price">$29.00</span>
-							                  <h3>Salted Fried Chicken</h3>
-							                  <p class="cat">Crab / Potatoes / Rice</p>
-							                </div>
-							              </li>
-							            </ul>
-										</div>
-									</div>
-								</div>
-
-								<div role="tabpanel" class="tab-pane" id="drinks">
-									<div class="row">
-										<div class="col-md-12">
-											<ul class="menu-dish">
-							              <li>
-							                <figure class="image"><img src="images/menu-8.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
-							                <div class="text">
-							                  <span class="price">$25.00</span>
-							                  <h3>Fried Potatoes with Garlic</h3>
-							                  <p class="cat">Viggies / Potatoes / Rice</p>
-							                </div>
-							              </li>
-							              <li>
-							                <figure class="image"><img src="images/menu-9.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
-							                <div class="text">
-							                  <span class="price">$20.50</span>
-							                  <h3>Tuna Roast Source</h3>
-							                  <p class="cat">Tuna / Potatoes / Rice</p>
-							                </div>
-							              </li>
-							              <li>
-							                <figure class="image"><img src="images/menu-3.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
-							                <div class="text">
-							                  <span class="price">$30.00</span>
-							                  <h3>Roast Beef (4 sticks)</h3>
-							                  <p class="cat">Crab / Potatoes / Rice</p>
-							                </div>
-							              </li>
-							              <li>
-							                <figure class="image"><img src="images/menu-4.jpg" alt="Free Bootstrap Template by colorlib.com"></figure>
-							                <div class="text">
-							                  <span class="price">$29.99</span>
-							                  <h3>Salted Fried Chicken</h3>
-							                  <p class="cat">Crab / Potatoes / Rice</p>
-							                </div>
-							              </li>
-							            </ul>
-										</div>
-									</div>
-								</div>
-			            </div>
-							 </div>
-							-->
-
-        <!-- end half -->
-
-        <!--
-							 <div class="half diningbar-img" style="background-image: url(images/Adestramento.jpg);"></div>
-							 -->
-
-        <!-- end half -->
-
     </div>
     </div>
     </div>
@@ -610,30 +452,32 @@
     </div>
 
     <!-- add footer aqui -->
-
     <div class="gototop js-top">
         <a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
     </div>
 
-    <!-- jQuery -->
-    <script src="js/jquery.min.js"></script>
-    <!-- jQuery Easing -->
-    <script src="js/jquery.easing.1.3.js"></script>
-    <!-- Bootstrap -->
-    <script src="js/bootstrap.min.js"></script>
-    <!-- Waypoints -->
-    <script src="js/jquery.waypoints.min.js"></script>
-    <!-- Flexslider -->
-    <script src="js/jquery.flexslider-min.js"></script>
-    <!-- Owl carousel -->
-    <script src="js/owl.carousel.min.js"></script>
-    <!-- Magnific Popup -->
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/magnific-popup-options.js"></script>
-    <!-- Date Picker -->
-    <script src="js/bootstrap-datepicker.js"></script>
-    <!-- Main -->
-    <script src="js/main.js"></script>
+    <!-- scripts -->
+    <div>
+        <!-- jQuery -->
+        <script src="js/jquery.min.js"></script>
+        <!-- jQuery Easing -->
+        <script src="js/jquery.easing.1.3.js"></script>
+        <!-- Bootstrap -->
+        <script src="js/bootstrap.min.js"></script>
+        <!-- Waypoints -->
+        <script src="js/jquery.waypoints.min.js"></script>
+        <!-- Flexslider -->
+        <script src="js/jquery.flexslider-min.js"></script>
+        <!-- Owl carousel -->
+        <script src="js/owl.carousel.min.js"></script>
+        <!-- Magnific Popup -->
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="js/magnific-popup-options.js"></script>
+        <!-- Date Picker -->
+        <script src="js/bootstrap-datepicker.js"></script>
+        <!-- Main -->
+        <script src="js/main.js"></script>
+    </div>
 
     @include('layouts.foot')
 
