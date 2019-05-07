@@ -36,7 +36,6 @@
             <div class="col-md-3 col-md-push-1">
                 <h4>Entre em contato</h4>
                 <ul class="colorlib-footer-links">
-                    <li>Rua dos catioros <br> 100, Oitavo andar</li>
                     <li><a href=""> +55-11-5444-1234</a></li>
                     <li><a href="mailto:contato@xablau.pet">contato@dogg.pet</a></li>
                     <li><a href="http://xablau.pet">www.dogg.pet</a></li>
